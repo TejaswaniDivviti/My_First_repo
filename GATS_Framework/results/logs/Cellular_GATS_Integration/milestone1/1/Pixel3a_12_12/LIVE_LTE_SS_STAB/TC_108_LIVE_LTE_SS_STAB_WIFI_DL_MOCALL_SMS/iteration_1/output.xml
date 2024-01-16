@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.1 (Python 3.8.0 on win32)" generated="20221215 16:28:06.893" rpa="false">
+<suite id="s1" name="Robot Scripts" source="D:\LGDEMO\cellular_automation\SDLC\Coding\GATS\GATS_Django_Framework\scripts\robot_scripts">
+<suite id="s1-s1" name="LIVE LTE SS STAB" source="D:\LGDEMO\cellular_automation\SDLC\Coding\GATS\GATS_Django_Framework\scripts\robot_scripts\LIVE_LTE_SS_STAB.robot">
+<test id="s1-s1-t1" name="TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS">
+<kw name="Run Keywords" library="BuiltIn" type="setup">
+<doc>Executes all the given keywords in a sequence.</doc>
+<arguments>
+<arg>Setup Log</arg>
+<arg>${dict.project}</arg>
+<arg>${dict.milestone}</arg>
+<arg>${dict.session}</arg>
+<arg>${dict.device}</arg>
+<arg>${dict.iter}</arg>
+<arg>LIVE_LTE_SS_STAB</arg>
+<arg>@{TEST TAGS}</arg>
+<arg>AND</arg>
+<arg>Start Device Log</arg>
+<arg>${yamlData}</arg>
+<arg>${log_type}</arg>
+</arguments>
+<kw name="Setup Log" library="res_common">
+<arguments>
+<arg>${dict.project}</arg>
+<arg>${dict.milestone}</arg>
+<arg>${dict.session}</arg>
+<arg>${dict.device}</arg>
+<arg>${dict.iter}</arg>
+<arg>LIVE_LTE_SS_STAB</arg>
+<arg>@{TEST TAGS}</arg>
+</arguments>
+<kw name="Setup Logging" library="common_log">
+<doc>Generates script level logs
+:param project: Project name
+:param milestone: Milestone name
+:param session: Session name
+:param device: Device name
+:param suite: Suite name
+:param auto_id: Automation id(test case id)
+:return: h.vinay@globaledgesoft.com</doc>
+<arguments>
+<arg>${arg1}</arg>
+<arg>${arg2}</arg>
+<arg>${arg3}</arg>
+<arg>${arg4}</arg>
+<arg>${arg5}</arg>
+<arg>${arg6}</arg>
+<arg>${arg7}</arg>
+</arguments>
+<msg timestamp="20221215 16:28:12.353" level="INFO">executing setup logging</msg>
+<msg timestamp="20221215 16:28:12.353" level="INFO">Filename:TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS</msg>
+<msg timestamp="20221215 16:28:12.354" level="INFO">Inside common log: Cellular_GATS_Integration milestone1 1 Pixel3a_12_12 iteration_1 LIVE_LTE_SS_STAB TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS
+Inside log_utils_setup Cellular_GATS_Integration milestone1 1 Pixel3a_12_12 LIVE_LTE_SS_STAB TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS iteration_1
+session_dir:Cellular_GATS_Integration\milestone1\1
+device:Pixel3a_12_12
+suite:LIVE_LTE_SS_STAB
+file_name:TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS
+iteration:iteration_1
+log_directory:D:\LGDEMO\cellular_automation\SDLC\Coding\GATS\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\Pixel3a_12_12\LIVE_LTE_SS_STAB\TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS\iteration_1</msg>
+<msg timestamp="20221215 16:28:12.365" level="FAIL">FileNotFoundError: [Errno 2] No such file or directory: 'D:\\LGDEMO\\cellular_automation\\SDLC\\Coding\\GATS\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\1\\Pixel3a_12_12\\LIVE_LTE_SS_STAB\\TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS\\iteration_1\\TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS_20221215-162812'</msg>
+<status status="FAIL" starttime="20221215 16:28:12.352" endtime="20221215 16:28:12.365"></status>
+</kw>
+<status status="FAIL" starttime="20221215 16:28:12.349" endtime="20221215 16:28:12.366"></status>
+</kw>
+<status status="FAIL" starttime="20221215 16:28:12.348" endtime="20221215 16:28:12.366"></status>
+</kw>
+<kw name="Run Keywords" library="BuiltIn" type="teardown">
+<doc>Executes all the given keywords in a sequence.</doc>
+<arguments>
+<arg>Stop Device Log</arg>
+<arg>${yamlData}</arg>
+<arg>${log_type}</arg>
+<arg>AND</arg>
+<arg>Remove Log Handler</arg>
+</arguments>
+<kw name="Stop device Log" library="res_common">
+<arguments>
+<arg>${yamlData}</arg>
+<arg>${log_type}</arg>
+</arguments>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>"Stopping Modem Logs"</arg>
+</arguments>
+<status status="PASS" starttime="20221215 16:28:12.372" endtime="20221215 16:28:12.372"></status>
+</kw>
+<kw name="Device Logging" library="device_reports">
+<arguments>
+<arg>${yamlData}</arg>
+<arg>${TEST NAME}</arg>
+<arg>${log_type}</arg>
+<arg>STOP</arg>
+</arguments>
+<msg timestamp="20221215 16:28:12.375" level="INFO">a15b28cf</msg>
+<status status="PASS" starttime="20221215 16:28:12.375" endtime="20221215 16:28:12.375"></status>
+</kw>
+<status status="PASS" starttime="20221215 16:28:12.369" endtime="20221215 16:28:12.375"></status>
+</kw>
+<kw name="Remove Log Handler" library="res_common">
+<kw name="Remove Script Log Handler" library="common_log">
+<doc>Removes all the logging handlers
+:return: None</doc>
+<msg timestamp="20221215 16:28:12.379" level="FAIL">AttributeError: type object 'common_log' has no attribute 'ROOT_LOG'</msg>
+<status status="FAIL" starttime="20221215 16:28:12.378" endtime="20221215 16:28:12.379"></status>
+</kw>
+<status status="FAIL" starttime="20221215 16:28:12.375" endtime="20221215 16:28:12.379"></status>
+</kw>
+<status status="FAIL" starttime="20221215 16:28:12.369" endtime="20221215 16:28:12.379">AttributeError: type object 'common_log' has no attribute 'ROOT_LOG'</status>
+</kw>
+<doc>Performing Delta Testcases 54</doc>
+<tags>
+<tag>TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS</tag>
+</tags>
+<timeout value="1 hour 5 minutes"></timeout>
+<status status="FAIL" starttime="20221215 16:28:12.337" endtime="20221215 16:28:12.379" critical="yes">Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\LGDEMO\\cellular_automation\\SDLC\\Coding\\GATS\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\1\\Pixel3a_12_12\\LIVE_LTE_SS_STAB\\TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS\\iteration_1\\TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS_20221215-162812'
+
+Also teardown failed:
+AttributeError: type object 'common_log' has no attribute 'ROOT_LOG'</status>
+</test>
+<kw name="Run Keyword" library="BuiltIn" type="teardown">
+<doc>Executes the given keyword with the given arguments.</doc>
+<arguments>
+<arg>Fill Excel</arg>
+<arg>${log_type}</arg>
+</arguments>
+<kw name="Fill Excel" library="res_common">
+<arguments>
+<arg>${log_type}</arg>
+</arguments>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>"Creating Excel Sheet"</arg>
+</arguments>
+<msg timestamp="20221215 16:28:12.567" level="INFO">"Creating Excel Sheet"</msg>
+<status status="PASS" starttime="20221215 16:28:12.566" endtime="20221215 16:28:12.567"></status>
+</kw>
+<kw name="Create Excel" library="excel_sheet">
+<arguments>
+<arg>${log_type}</arg>
+</arguments>
+<msg timestamp="20221215 16:28:12.683" level="INFO">[]</msg>
+<status status="PASS" starttime="20221215 16:28:12.570" endtime="20221215 16:28:12.683"></status>
+</kw>
+<status status="PASS" starttime="20221215 16:28:12.563" endtime="20221215 16:28:12.683"></status>
+</kw>
+<status status="PASS" starttime="20221215 16:28:12.563" endtime="20221215 16:28:12.683"></status>
+</kw>
+<status status="FAIL" starttime="20221215 16:28:06.930" endtime="20221215 16:28:12.683"></status>
+</suite>
+<status status="FAIL" starttime="20221215 16:28:06.898" endtime="20221215 16:28:12.685"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+<stat pass="0" fail="1">TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS</stat>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="Robot Scripts">Robot Scripts</stat>
+<stat pass="0" fail="1" id="s1-s1" name="LIVE LTE SS STAB">Robot Scripts.LIVE LTE SS STAB</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

@@ -1,0 +1,231 @@
+macId,testRunId,result,testExecutionId,failureReason,startTime,endTime,testCaseId,ftplink
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671023368880,1671023441050,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671023368880,1671023441050,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671023553280,1671023575000,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671023553280,1671023575000,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671023886110,1671023889660,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671023886110,1671023889660,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024005660,1671024007680,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024005660,1671024007680,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024136910,1671024131830,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024136910,1671024131830,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024198860,1671024202230,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024198860,1671024202230,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024274020,1671024275700,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024274020,1671024275700,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024387230,1671024389500,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024387230,1671024389500,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024411070,1671024412750,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024411070,1671024412750,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024518090,1671024511190,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024518090,1671024511190,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024645660,1671024649450,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024645660,1671024649450,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024726110,1671024783090,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024726110,1671024783090,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,Execution terminated by signal,1671024825940,1671024850940,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,FAILED,1,Execution terminated by signal,1671024825940,1671024850940,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024908430,1671024978940,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671024908430,1671024978940,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671026254090,1671026305560,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671026254090,1671026305560,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671101430280,1671101499930,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671101430280,1671101499930,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671101577000,1671101640830,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671101577000,1671101640830,TC_028_LIVE_LTE_SS_STAB_TurnOFF_WIFI_YT,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\LGDEMO\\cellular_automation\\SDLC\\Coding\\GATS\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\..",1671101895370,1671101895790,TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS
+00:1B:44:11:3A:B7,26,FAILED,1,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\LGDEMO\\cellular_automation\\SDLC\\Coding\\GATS\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\..",1671101895370,1671101895790,TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671101901230,1671101925980,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671101901230,1671101925980,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671101924100,1671101960430,TC_Stability_Live_Camera_038
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671101924100,1671101960430,TC_Stability_Live_Camera_038,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\LGDEMO\\cellular_automation\\SDLC\\Coding\\GATS\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\..",1671102044930,1671102045410,TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS
+00:1B:44:11:3A:B7,26,FAILED,1,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\LGDEMO\\cellular_automation\\SDLC\\Coding\\GATS\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\..",1671102044930,1671102045410,TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671102040730,1671102064150,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671102040730,1671102064150,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671102071250,1671102089200,TC_Stability_Live_Camera_038
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671102071250,1671102089200,TC_Stability_Live_Camera_038,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\LGDEMO\\cellular_automation\\SDLC\\Coding\\GATS\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\..",1671102144470,1671102144790,TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS
+00:1B:44:11:3A:B7,26,FAILED,1,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\LGDEMO\\cellular_automation\\SDLC\\Coding\\GATS\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\..",1671102144470,1671102144790,TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671102140880,1671102164290,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671102140880,1671102164290,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\LGDEMO\\cellular_automation\\SDLC\\Coding\\GATS\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\..",1671102458880,1671102459230,TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS
+00:1B:44:11:3A:B7,26,FAILED,1,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\LGDEMO\\cellular_automation\\SDLC\\Coding\\GATS\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\..",1671102458880,1671102459230,TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671102456260,1671102479980,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671102456260,1671102479980,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\LGDEMO\\cellular_automation\\SDLC\\Coding\\GATS\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\..",1671102589300,1671102589660,TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS
+00:1B:44:11:3A:B7,26,FAILED,1,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\LGDEMO\\cellular_automation\\SDLC\\Coding\\GATS\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\..",1671102589300,1671102589660,TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671102596830,1671102614400,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671102596830,1671102614400,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671102621450,1671102642780,TC_Stability_Live_Camera_037
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671102621450,1671102642780,TC_Stability_Live_Camera_037,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671102706390,1671102729720,TC_Stability_Live_Camera_037
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671102706390,1671102729720,TC_Stability_Live_Camera_037,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671102741550,1671102742960,TC_Stability_Live_Camera_037
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671102741550,1671102742960,TC_Stability_Live_Camera_037,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,ValueError: max() arg is an empty sequence,1671102989310,1671103053330,TC_106_LIVE_LTE_SS_STAB_WIFI_UL_SMS
+00:1B:44:11:3A:B7,26,FAILED,1,ValueError: max() arg is an empty sequence,1671102989310,1671103053330,TC_106_LIVE_LTE_SS_STAB_WIFI_UL_SMS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671103061150,1671103079730,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671103061150,1671103079730,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\LGDEMO\\cellular_automation\\SDLC\\Coding\\GATS\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\..",1671103099850,1671103100210,TC_109_LIVE_LTE_SS_STAB_WIFI_DL_MTCALL_SMS
+00:1B:44:11:3A:B7,26,FAILED,1,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\LGDEMO\\cellular_automation\\SDLC\\Coding\\GATS\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\..",1671103099850,1671103100210,TC_109_LIVE_LTE_SS_STAB_WIFI_DL_MTCALL_SMS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671103100590,1671103128110,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671103100590,1671103128110,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671103200740,1671103285990,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671103200740,1671103285990,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671103283420,1671103308370,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671103283420,1671103308370,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,Concurrency of Call got disconnected!!,1671103601730,1671103632480,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,FAILED,1,Concurrency of Call got disconnected!!,1671103601730,1671103632480,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671103629540,1671103657810,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671103629540,1671103657810,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671103731770,1671103758350,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671103731770,1671103758350,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671103764640,1671103784110,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671103764640,1671103784110,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671104980700,1671105009940,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671104980700,1671105009940,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,ValueError: max() arg is an empty sequence,1671105008840,1671105052860,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,FAILED,1,ValueError: max() arg is an empty sequence,1671105008840,1671105052860,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671105073480,1671105102230,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671105073480,1671105102230,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,ValueError: max() arg is an empty sequence,1671105102480,1671105121810,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,FAILED,1,ValueError: max() arg is an empty sequence,1671105102480,1671105121810,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671105144390,1671105162580,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671105144390,1671105162580,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671105170150,1671105194000,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671105170150,1671105194000,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671110169630,1671110204660,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671110169630,1671110204660,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,ValueError: max() arg is an empty sequence,1671110208650,1671110222020,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,FAILED,1,ValueError: max() arg is an empty sequence,1671110208650,1671110222020,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671110853340,1671110876460,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671110853340,1671110876460,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671110884540,1671110911490,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671110884540,1671110911490,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671165163550,1671165200110,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671165163550,1671165200110,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671165205360,1671165231460,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671165205360,1671165231460,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671166282410,1671166303410,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671166282410,1671166303410,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671166306200,1671166331140,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671166306200,1671166331140,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671167394460,1671167419740,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671167394460,1671167419740,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671167414710,1671167444130,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671167414710,1671167444130,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671168024110,1671168050810,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671168024110,1671168050810,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671168054050,1671168075380,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671168054050,1671168075380,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671170996490,1671171022890,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671170996490,1671171022890,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671171025150,1671171050230,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1671171025150,1671171050230,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673853555090,1673853571180,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673853555090,1673853571180,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673853578380,1673853615430,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673853578380,1673853615430,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673853714200,1673853739960,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673853714200,1673853739960,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673853733760,1673853759360,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673853733760,1673853759360,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673867971550,1673867993280,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673867971550,1673867993280,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673868005930,1673868026940,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673868005930,1673868026940,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673868261550,1673868281930,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673868261550,1673868281930,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673868284640,1673868310750,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673868284640,1673868310750,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673868702180,1673868723440,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673868702180,1673868723440,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673868726220,1673868755760,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673868726220,1673868755760,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673870541900,1673870566500,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673870541900,1673870566500,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673870569560,1673870594430,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1673870569560,1673870594430,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1680696694210,1680696747800,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1680696694210,1680696747800,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1680696753650,1680696773570,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1680696753650,1680696773570,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Triggering call failed due to return code --- >1
+error --- >None",1680842461860,1680842459600,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,FAILED,1,"Triggering call failed due to return code --- >1
+error --- >None",1680842461860,1680842459600,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,Failed due to max() arg is an empty sequence,1680842462880,1680842477680,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,FAILED,1,Failed due to max() arg is an empty sequence,1680842462880,1680842477680,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Triggering call failed due to return code --- >1
+error --- >None",1680842647650,1680842652510,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,FAILED,1,"Triggering call failed due to return code --- >1
+error --- >None",1680842647650,1680842652510,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Setup failed:
+Execution terminated by signal",1680842652520,1680842652680,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,FAILED,1,"Setup failed:
+Execution terminated by signal",1680842652520,1680842652680,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Triggering call failed due to return code --- >1
+error --- >None",1680842688210,1680842684120,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,FAILED,1,"Triggering call failed due to return code --- >1
+error --- >None",1680842688210,1680842684120,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Setup failed:
+Execution terminated by signal",1680842691140,1680842691320,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,FAILED,1,"Setup failed:
+Execution terminated by signal",1680842691140,1680842691320,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Triggering call failed due to return code --- >255
+error --- >None",1680842713380,1680842711150,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,FAILED,1,"Triggering call failed due to return code --- >255
+error --- >None",1680842713380,1680842711150,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,Failed due to max() arg is an empty sequence,1680842712890,1680842762930,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,FAILED,1,Failed due to max() arg is an empty sequence,1680842712890,1680842762930,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Triggering call failed due to return code --- >255
+error --- >None",1680843083410,1680843088780,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,FAILED,1,"Triggering call failed due to return code --- >255
+error --- >None",1680843083410,1680843088780,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,Failed due to max() arg is an empty sequence,1680843086180,1680843101300,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,FAILED,1,Failed due to max() arg is an empty sequence,1680843086180,1680843101300,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Triggering call failed due to return code --- >255
+error --- >None",1680843862260,1680843867840,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,FAILED,1,"Triggering call failed due to return code --- >255
+error --- >None",1680843862260,1680843867840,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,Failed due to max() arg is an empty sequence,1680843867700,1680843880010,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,FAILED,1,Failed due to max() arg is an empty sequence,1680843867700,1680843880010,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Triggering call failed due to return code --- >255
+error --- >None",1680844354170,1680844360340,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,FAILED,1,"Triggering call failed due to return code --- >255
+error --- >None",1680844354170,1680844360340,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,Failed due to max() arg is an empty sequence,1680844362510,1680844372340,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,FAILED,1,Failed due to max() arg is an empty sequence,1680844362510,1680844372340,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Triggering call failed due to return code --- >255
+error --- >None",1680844493980,1680844490220,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,FAILED,1,"Triggering call failed due to return code --- >255
+error --- >None",1680844493980,1680844490220,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,Failed due to max() arg is an empty sequence,1680844496200,1680844512480,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,FAILED,1,Failed due to max() arg is an empty sequence,1680844496200,1680844512480,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1680844725910,1680844774300,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,PASSED,1,PASSED,1680844725910,1680844774300,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,Failed due to max() arg is an empty sequence,1680844772190,1680844787150,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,FAILED,1,Failed due to max() arg is an empty sequence,1680844772190,1680844787150,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,"Receiving Call failed due to return code --- >1
+error --- >None",1680845153450,1680845156270,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+00:1B:44:11:3A:B7,26,FAILED,1,"Receiving Call failed due to return code --- >1
+error --- >None",1680845153450,1680845156270,TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,Failed due to max() arg is an empty sequence,1680845156530,1680845156250,TC_Stability_Live_Volte_003
+00:1B:44:11:3A:B7,26,FAILED,1,Failed due to max() arg is an empty sequence,1680845156530,1680845156250,TC_Stability_Live_Volte_003,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,Required 1 sim but 2 sim is inserted,1683003952960,1683003952520,TC_053_LIVE_LTE_SS_STAB_DL_DCN_WIFI
+00:1B:44:11:3A:B7,26,FAILED,1,Required 1 sim but 2 sim is inserted,1683003952960,1683003952520,TC_053_LIVE_LTE_SS_STAB_DL_DCN_WIFI,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,1,Required 1 sim but 2 sim is inserted,1683004041580,1683004041520,TC_053_LIVE_LTE_SS_STAB_DL_DCN_WIFI
+00:1B:44:11:3A:B7,26,FAILED,1,Required 1 sim but 2 sim is inserted,1683004041580,1683004041520,TC_053_LIVE_LTE_SS_STAB_DL_DCN_WIFI,Logs File Not Created. Check robot_results directory

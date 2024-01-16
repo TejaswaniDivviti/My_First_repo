@@ -1,0 +1,77 @@
+section: DATABASE , option: DATABASE_NAME
+date and time: 07/04/2023
+section: DATABASE , option: DATABASE_NAME
+test_case:TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP
+======================>>>>>TEST SUITE NAME: LIVE_LTE_SS_STAB
+Namespace(test_suite='..\\..\\robot_scripts', include='TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APPANDTC_Stability_Live_Volte_003', variable1=['Cellular_GATS_Integration'], variable2='milestone1', variable3='1', variable4=['Pixel3a_10_Google'], variable5='92KAY01TTW', variable6='26', variable7='C:\\Users\\swatipat\\Downloads\\MAIN_GATS_CODE\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\1\\Pixel3a_10_Google', variable8='C:\\Users\\swatipat\\Downloads\\MAIN_GATS_CODE\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\1\\Pixel3a_10_Google', variable9='00:1B:44:11:3A:B7', variable11='Cellular_GATS_Integration', variable14='Pixel3a_10_Google')
+section: PASSWORD , option: SYS_FLAG
+"Starting Modem Logs"
+SS__1
+"Stopping Modem Logs"
+Time at the start of end_test method:2023-04-07 10:55:47.926840
+1680845153450
+1680845156270
+section: PASSWORD , option: SYS_FLAG
+Failed to upload files.Got Error:PythonListener.info_to_db() missing 1 required positional argument: 'ftp_link'
+test_data_json:{'macId': '00:1B:44:11:3A:B7', 'testRunId': 26, 'result': 'FAILED', 'automationId': 1, 'failureReason': 'Receiving Call failed due to return code --- >1\nerror --- >None', 'startTime': '1680845153450', 'endTime': '1680845156270', 'testcaseCustomId': 'TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP', 'ftpLink': 'None'}
+Inside store_to_database
+section: QUERY , option: CREATE_TEST_TABLE
+create_table:CREATE TABLE IF NOT EXISTS  {0}( SLNO     INTEGER UNIQUE PRIMARY KEY AUTOINCREMENT, {1}   VARCHAR(10), {2}   VARCHAR(10)  NOT NULL, {3}   VARCHAR(10)    NOT NULL, {4}   VARCHAR(10) NOT NULL, {5}   VARCHAR(512) NOT NULL, {6}   VARCHAR(10) NOT NULL, {7}   VARCHAR(10) NOT NULL, {8}   VARCHAR(10) NOT NULL, {9}   VARCHAR(40) NOT NULL)
+After creating table
+section: DATABASE , option: TEST_TABLE_NAME
+table_name:test_res_table
+section: DEVICE_STAT_COL , option: COL1
+section: DEVICE_STAT_COL , option: COL20
+section: DEVICE_STAT_COL , option: COL30
+section: DEVICE_STAT_COL , option: COL40
+section: DEVICE_STAT_COL , option: COL50
+section: DEVICE_STAT_COL , option: COL60
+section: DEVICE_STAT_COL , option: COL70
+section: DEVICE_STAT_COL , option: COL80
+section: DEVICE_STAT_COL , option: COL90
+create table sql query: CREATE TABLE IF NOT EXISTS  test_res_table( SLNO     INTEGER UNIQUE PRIMARY KEY AUTOINCREMENT, macId   VARCHAR(10), testRunId   VARCHAR(10)  NOT NULL, result   VARCHAR(10)    NOT NULL, automationId   VARCHAR(10) NOT NULL, failureReason   VARCHAR(512) NOT NULL, startTime   VARCHAR(10) NOT NULL, endTime   VARCHAR(10) NOT NULL, testcaseCustomId   VARCHAR(10) NOT NULL, ftpLink   VARCHAR(40) NOT NULL)
+TEST CREATE TABLE: <sqlite3.Cursor object at 0x0000017B9AAAF7C0>
+------------------------
+Get Test Result: {'macId': '00:1B:44:11:3A:B7', 'testRunId': 26, 'result': 'FAILED', 'automationId': 1, 'failureReason': 'Receiving Call failed due to return code --- >1\nerror --- >None', 'startTime': '1680845153450', 'endTime': '1680845156270', 'testcaseCustomId': 'TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP', 'ftpLink': 'None'}
+Before inserting in to test_res_table
+After inserting into the database
+Done inserting into table.!!!!
+stat:Done
+Before calling publish data
+test_case:TC_Stability_Live_Volte_003
+======================>>>>>TEST SUITE NAME: Stability_Live
+Namespace(test_suite='..\\..\\robot_scripts', include='TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APPANDTC_Stability_Live_Volte_003', variable1=['Cellular_GATS_Integration'], variable2='milestone1', variable3='1', variable4=['Pixel3a_10_Google'], variable5='92KAY01TTW', variable6='26', variable7='C:\\Users\\swatipat\\Downloads\\MAIN_GATS_CODE\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\1\\Pixel3a_10_Google', variable8='C:\\Users\\swatipat\\Downloads\\MAIN_GATS_CODE\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\1\\Pixel3a_10_Google', variable9='00:1B:44:11:3A:B7', variable11='Cellular_GATS_Integration', variable14='Pixel3a_10_Google')
+section: PASSWORD , option: SYS_FLAG
+"Starting Modem Logs"
+SS__330
+"Stopping Modem Logs"
+Time at the start of end_test method:2023-04-07 10:55:53.325287
+1680845156530
+1680845156250
+section: PASSWORD , option: SYS_FLAG
+Failed to upload files.Got Error:PythonListener.info_to_db() missing 1 required positional argument: 'ftp_link'
+test_data_json:{'macId': '00:1B:44:11:3A:B7', 'testRunId': 26, 'result': 'FAILED', 'automationId': 1, 'failureReason': 'Failed due to max() arg is an empty sequence', 'startTime': '1680845156530', 'endTime': '1680845156250', 'testcaseCustomId': 'TC_Stability_Live_Volte_003', 'ftpLink': 'None'}
+Inside store_to_database
+section: QUERY , option: CREATE_TEST_TABLE
+create_table:CREATE TABLE IF NOT EXISTS  {0}( SLNO     INTEGER UNIQUE PRIMARY KEY AUTOINCREMENT, {1}   VARCHAR(10), {2}   VARCHAR(10)  NOT NULL, {3}   VARCHAR(10)    NOT NULL, {4}   VARCHAR(10) NOT NULL, {5}   VARCHAR(512) NOT NULL, {6}   VARCHAR(10) NOT NULL, {7}   VARCHAR(10) NOT NULL, {8}   VARCHAR(10) NOT NULL, {9}   VARCHAR(40) NOT NULL)
+After creating table
+section: DATABASE , option: TEST_TABLE_NAME
+table_name:test_res_table
+section: DEVICE_STAT_COL , option: COL1
+section: DEVICE_STAT_COL , option: COL20
+section: DEVICE_STAT_COL , option: COL30
+section: DEVICE_STAT_COL , option: COL40
+section: DEVICE_STAT_COL , option: COL50
+section: DEVICE_STAT_COL , option: COL60
+section: DEVICE_STAT_COL , option: COL70
+section: DEVICE_STAT_COL , option: COL80
+section: DEVICE_STAT_COL , option: COL90
+create table sql query: CREATE TABLE IF NOT EXISTS  test_res_table( SLNO     INTEGER UNIQUE PRIMARY KEY AUTOINCREMENT, macId   VARCHAR(10), testRunId   VARCHAR(10)  NOT NULL, result   VARCHAR(10)    NOT NULL, automationId   VARCHAR(10) NOT NULL, failureReason   VARCHAR(512) NOT NULL, startTime   VARCHAR(10) NOT NULL, endTime   VARCHAR(10) NOT NULL, testcaseCustomId   VARCHAR(10) NOT NULL, ftpLink   VARCHAR(40) NOT NULL)
+TEST CREATE TABLE: <sqlite3.Cursor object at 0x0000017B9AAAF7C0>
+------------------------
+Get Test Result: {'macId': '00:1B:44:11:3A:B7', 'testRunId': 26, 'result': 'FAILED', 'automationId': 1, 'failureReason': 'Failed due to max() arg is an empty sequence', 'startTime': '1680845156530', 'endTime': '1680845156250', 'testcaseCustomId': 'TC_Stability_Live_Volte_003', 'ftpLink': 'None'}
+Before inserting in to test_res_table
+After inserting into the database
+Done inserting into table.!!!!
+stat:Done
+Before calling publish data

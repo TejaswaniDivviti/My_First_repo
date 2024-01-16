@@ -1,0 +1,3 @@
+macId,testRunId,result,testExecutionId,failureReason,startTime,endTime,testCaseId,ftplink
+00:1B:44:11:3A:B7,26,PASSED,777777,PASSED,1675678759870,1675678810000,TC_072_LIVE_LTE_SS_STAB_APM_FM
+00:1B:44:11:3A:B7,26,PASSED,777777,PASSED,1675678759870,1675678810000,TC_072_LIVE_LTE_SS_STAB_APM_FM,Logs File Not Created. Check robot_results directory

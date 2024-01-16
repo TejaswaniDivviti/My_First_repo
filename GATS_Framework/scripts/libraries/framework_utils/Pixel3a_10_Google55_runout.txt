@@ -1,0 +1,18 @@
+==============================================================================
+Robot Scripts                                                                 
+==============================================================================
+Robot Scripts.LIVE LTE SS STAB                                                
+==============================================================================
+TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI :: Performing Delta Testcases 22  | PASS |
+------------------------------------------------------------------------------
+Robot Scripts.LIVE LTE SS STAB                                        | PASS |
+1 critical test, 1 passed, 0 failed
+1 test total, 1 passed, 0 failed
+==============================================================================
+Robot Scripts                                                         | PASS |
+1 critical test, 1 passed, 0 failed
+1 test total, 1 passed, 0 failed
+==============================================================================
+Output:  C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\55\Pixel3a_10_Google\LIVE_LTE_SS_STAB\TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI\iteration_1\output.xml
+Log:     C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\55\Pixel3a_10_Google\LIVE_LTE_SS_STAB\TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI\iteration_1\log.html
+Report:  C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\55\Pixel3a_10_Google\LIVE_LTE_SS_STAB\TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI\iteration_1\report.html

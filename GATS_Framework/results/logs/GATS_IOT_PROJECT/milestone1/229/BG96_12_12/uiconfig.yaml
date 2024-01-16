@@ -1,0 +1,21 @@
+yamlData:
+  deviceName: BG96
+  macId: 00:1B:44:11:3A:B7
+  mileStoneName: milestone1
+  serialId: NA
+  testCase:
+  - TC_MQTT_CONNECT_001: 1
+  testRunId: 26
+  testcase_config:
+    TC_MQTT_CONNECT_001:
+      ClientID: '12345678'
+      Flags: 198
+      KeepAlive: 60
+      Password: '123467'
+      Port: 1883
+      ProtoName: MQTT
+      ProtoVersion: 6
+      TCP_IP: localhost
+      Username: Globaledge
+      WillMsg: 'On'
+      WillTopic: home/global/cellular

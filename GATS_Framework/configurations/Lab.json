@@ -1,0 +1,62 @@
+{
+  "devices": [
+    {
+      "Contact_name_A": "Ds",
+      "Contact_name_B": "Pritam@capgemini",
+      "Contact_name_C": "OnePlus",
+
+      "deviceB_call_no_sim1": "7893109918",
+      "deviceB_call_no_sim2": "7893109918",
+      "deviceB_id": "RZ8N71YR28N",
+      "deviceB_name": "MounicaM31",
+
+      "deviceA_call_no_sim1": "9789574093",
+      "deviceA_call_no_sim2": "9789574093",
+      "deviceA_id": "EFR32MG12PXXXF1024",
+      "deviceA_name": "JTAG",
+
+      "deviceC_call_no_sim1": "8150865662",
+      "deviceC_call_no_sim2": "8150865662",
+      "deviceC_id": "HT76N1A00809",
+      "deviceC_name": "pixel 2a",
+    
+      "testcase_config_parameters": {
+        "wifi_ssid": "Galaxy M31",
+        "wifi_password": "mounicaa231",
+        "wifi_ssid_new": "oppo",
+        "wifi_password_new": "12345678",
+        "destination_location": "Tirupati",
+        "bluetooth_name": "Pixel 3",
+        "bluetooth_file": "sdcard/DCIM/download.png",
+        "browsing_duration": 0.3,
+        "Call_duration": 5,
+        "IP_ADDR": "192.168.42.233"
+      },
+
+      "testCase": [
+        {    
+        "matter_tc_001": 1
+       
+        } 
+        
+      ]
+    }
+  ],
+
+  "rerun_failure_testcase": 1,
+  "bugzilla_details": {
+    "bugzilla_url": "bugzilla.globaledgesoft.com",
+    "bugzilla_userId": "bg.meghashree@globaledgesoft.com",
+    "bugzilla_password": "meg1@ges",
+    "product_": "GATS_Cellular",
+    "version_": "unspecified",
+    "component_": "PythonFramework",
+    "op_sys_": "Linux",
+    "platform_": "PC"
+  },
+  "automation_id":33, 
+  "Mail":{
+    
+  }
+}
+

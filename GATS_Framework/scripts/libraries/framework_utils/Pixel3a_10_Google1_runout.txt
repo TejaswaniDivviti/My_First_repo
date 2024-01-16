@@ -1,0 +1,39 @@
+==============================================================================
+Robot Scripts                                                                 
+==============================================================================
+Robot Scripts.LIVE LTE SS STAB                                                
+==============================================================================
+TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP :: Performing Delta Testcases 1  | FAIL |
+Receiving Call failed due to return code --- >1
+error --- >None
+------------------------------------------------------------------------------
+Robot Scripts.LIVE LTE SS STAB                                        | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Robot Scripts                                                         | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\Pixel3a_10_Google\LIVE_LTE_SS_STAB\TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP\iteration_1\output.xml
+Log:     C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\Pixel3a_10_Google\LIVE_LTE_SS_STAB\TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP\iteration_1\log.html
+Report:  C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\Pixel3a_10_Google\LIVE_LTE_SS_STAB\TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP\iteration_1\report.html
+==============================================================================
+Robot Scripts                                                                 
+==============================================================================
+Robot Scripts.Stability Live :: Executing Stablity Testcases.                 
+==============================================================================
+TC_Stability_Live_Volte_003 :: Performing Delta Testcases 330         | FAIL |
+Failed due to max() arg is an empty sequence
+------------------------------------------------------------------------------
+Robot Scripts.Stability Live :: Executing Stablity Testcases.         | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Robot Scripts                                                         | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\Pixel3a_10_Google\Stability_Live\TC_Stability_Live_Volte_003\iteration_1\output.xml
+Log:     C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\Pixel3a_10_Google\Stability_Live\TC_Stability_Live_Volte_003\iteration_1\log.html
+Report:  C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\Pixel3a_10_Google\Stability_Live\TC_Stability_Live_Volte_003\iteration_1\report.html

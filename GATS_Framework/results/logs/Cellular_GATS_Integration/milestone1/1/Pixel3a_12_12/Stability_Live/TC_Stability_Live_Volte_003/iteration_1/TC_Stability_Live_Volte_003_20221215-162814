@@ -1,0 +1,15 @@
+2022-12-15 16:28:14.740 India Standard Time: [log_utils] [setup_logging] [79] [INFO] Logging has been setup
+2022-12-15 16:28:14.950 India Standard Time: [TC_Stability_Live_Volte_003] [execute_call] [21] [INFO] Performing Volte call
+2022-12-15 16:28:15.962 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [trigger_volte_call] [600] [INFO] Calling from device a15b28cf ===> adb -s a15b28cf shell am start -a android.intent.action.CALL -d tel:7893109918
+2022-12-15 16:28:26.128 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [check_call_state] [660] [DEBUG] Checking device 92KAY01TTW ===> adb -s 92KAY01TTW  shell dumpsys telephony.registry | findstr /c:"mCallState" /c:"mCallIncomingNumber" > D:\LGDEMO\cellular_automation\SDLC\Coding\GATS\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\Pixel3a_12_12\Stability_Live\TC_Stability_Live_Volte_003\iteration_1/dump.txt
+2022-12-15 16:28:26.290 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [check_call_state] [675] [INFO] Call state fetched successfully and call state is 1
+2022-12-15 16:28:26.291 India Standard Time: [TC_Stability_Live_Volte_003] [execute_call] [44] [INFO] Receiving call in device B
+2022-12-15 16:28:26.291 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [accept_call] [635] [DEBUG] Receiving call in device 92KAY01TTW ===> adb -s 92KAY01TTW shell input keyevent KEYCODE_CALL
+2022-12-15 16:28:27.248 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [accept_call] [642] [INFO] Call received Successfully
+2022-12-15 16:28:27.249 India Standard Time: [TC_Stability_Live_Volte_003] [execute_call] [50] [INFO] Call attended successfully
+2022-12-15 16:28:37.699 India Standard Time: [TC_Stability_Live_Volte_003] [execute_call] [62] [INFO] Terminating call in device A
+2022-12-15 16:28:37.699 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [terminate_call] [693] [DEBUG] Terminating call in device a15b28cf ===> adb -s a15b28cf shell input keyevent KEYCODE_ENDCALL
+2022-12-15 16:28:37.860 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [terminate_call] [700] [INFO] Call terminated Successfully
+2022-12-15 16:28:37.862 India Standard Time: [TC_Stability_Live_Volte_003] [execute_call] [68] [INFO] Test case executed
+2022-12-15 16:28:37.897 India Standard Time: [common_log] [remove_script_log_handler] [70] [DEBUG] Inside remove_script_log_handler
+2022-12-15 16:28:37.897 India Standard Time: [common_log] [remove_script_log_handler] [71] [INFO] [<StreamHandler (NOTSET)>, <RobotHandler (NOTSET)>, <StreamHandler (NOTSET)>, <FileHandler D:\LGDEMO\cellular_automation\SDLC\Coding\GATS\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\Pixel3a_12_12\Stability_Live\TC_Stability_Live_Volte_003\iteration_1\TC_Stability_Live_Volte_003_20221215-162814 (DEBUG)>]

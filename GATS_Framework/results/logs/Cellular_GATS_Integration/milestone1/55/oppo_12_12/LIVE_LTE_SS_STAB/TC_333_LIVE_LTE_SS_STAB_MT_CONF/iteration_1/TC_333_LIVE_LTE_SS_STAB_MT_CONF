@@ -1,0 +1,18 @@
+2023-05-09 16:50:25.876 India Standard Time: [log_utils] [setup_logging] [80] [INFO] Logging has been setup
+2023-05-09 16:50:26.680 India Standard Time: [TC_333_LIVE_LTE_SS_STAB_MT_CONF] [SS_220] [78] [INFO] validating SS sim status
+2023-05-09 16:50:26.680 India Standard Time: [TC_333_LIVE_LTE_SS_STAB_MT_CONF] [SS_220] [89] [INFO] validating SS sim successful for 5TGYYDGU6PSKOZZH
+2023-05-09 16:50:26.681 India Standard Time: [TC_333_LIVE_LTE_SS_STAB_MT_CONF] [SS_220] [89] [INFO] validating SS sim successful for 2d0c8aa1
+2023-05-09 16:50:26.681 India Standard Time: [TC_333_LIVE_LTE_SS_STAB_MT_CONF] [conference_call] [26] [INFO] perform mt volte call
+2023-05-09 16:50:26.681 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [trigger_volte_call] [614] [INFO] Calling from device 2d0c8aa1 ===> adb -s 2d0c8aa1 shell am start -a android.intent.action.CALL -d tel:8150865662
+2023-05-09 16:50:31.966 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [perform_a2b_call] [2584] [INFO] Receiving call in device B
+2023-05-09 16:50:32.244 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [accept_call] [658] [INFO] Call received Successfully
+2023-05-09 16:50:37.245 India Standard Time: [TC_333_LIVE_LTE_SS_STAB_MT_CONF] [conference_call] [37] [INFO] perform mt volte call
+2023-05-09 16:50:37.246 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [trigger_volte_call] [614] [INFO] Calling from device 2d0c8aa1 ===> adb -s 2d0c8aa1 shell am start -a android.intent.action.CALL -d tel:7893109918
+2023-05-09 16:50:42.590 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [perform_a2b_call] [2584] [INFO] Receiving call in device B
+2023-05-09 16:50:42.843 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [accept_call] [658] [INFO] Call received Successfully
+2023-05-09 16:50:50.846 India Standard Time: [TC_333_LIVE_LTE_SS_STAB_MT_CONF] [conference_call] [47] [INFO] merging calls
+2023-05-09 16:51:10.855 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 2d0c8aa1:7912
+2023-05-09 16:51:13.149 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:52660
+2023-05-09 16:51:13.166 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:52660 "GET /wlan/ip HTTP/1.1" 500 25
+2023-05-09 16:51:13.182 India Standard Time: [common_log] [remove_script_log_handler] [71] [DEBUG] Inside remove_script_log_handler
+2023-05-09 16:51:13.182 India Standard Time: [common_log] [remove_script_log_handler] [72] [INFO] [<RobotHandler (NOTSET)>, <StreamHandler (NOTSET)>, <FileHandler C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\55\oppo_12_12\LIVE_LTE_SS_STAB\TC_333_LIVE_LTE_SS_STAB_MT_CONF\iteration_1\TC_333_LIVE_LTE_SS_STAB_MT_CONF (DEBUG)>]

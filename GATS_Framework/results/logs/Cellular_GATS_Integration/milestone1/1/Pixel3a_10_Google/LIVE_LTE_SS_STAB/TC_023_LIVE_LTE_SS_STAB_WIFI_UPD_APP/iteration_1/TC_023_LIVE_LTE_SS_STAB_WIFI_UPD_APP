@@ -1,0 +1,8 @@
+2023-04-07 10:55:45.860 India Standard Time: [log_utils] [setup_logging] [80] [INFO] Logging has been setup
+2023-04-07 10:55:46.644 India Standard Time: [TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP] [SS_1] [97] [INFO] validating SS sim status
+2023-04-07 10:55:46.982 India Standard Time: [TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP] [SS_1] [108] [INFO] validating SS sim successful for 92KAY01TTW
+2023-04-07 10:55:46.982 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [trigger_volte_call] [614] [INFO] Calling from device 92KAY01TTW ===> adb -s 92KAY01TTW shell am start -a android.intent.action.CALL -d tel:8150865662
+2023-04-07 10:55:47.345 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [perform_a2b_call] [2582] [INFO] Receiving call in device B
+2023-04-07 10:55:47.345 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [accept_call] [650] [DEBUG] Receiving call in device 1221b759 ===> adb -s 1221b759 shell input keyevent KEYCODE_CALL
+2023-04-07 10:55:47.926 India Standard Time: [common_log] [remove_script_log_handler] [71] [DEBUG] Inside remove_script_log_handler
+2023-04-07 10:55:47.926 India Standard Time: [common_log] [remove_script_log_handler] [72] [INFO] [<RobotHandler (NOTSET)>, <StreamHandler (NOTSET)>, <FileHandler C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\Pixel3a_10_Google\LIVE_LTE_SS_STAB\TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP\iteration_1\TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP (DEBUG)>]

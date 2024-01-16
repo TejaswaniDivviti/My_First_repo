@@ -1,0 +1,3 @@
+List of devices attached
+a15b28cf	device
+

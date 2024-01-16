@@ -1,0 +1,31 @@
+Done
+Searching NAS Packets
+
+"Complete Message" 
+
+Attach reject Msg
+Subscription ID = 1
+pkt_version = 1 (0x1)
+rel_number = 9 (0x9)
+rel_version_major = 5 (0x5)
+rel_version_minor = 0 (0x0)
+security_header_or_skip_ind = 0 (0x0)
+prot_disc = 7 (0x7) (EPS mobility management messages)
+msg_type = 68 (0x44) (Attach reject)
+lte_emm_msg
+  emm_attach_reject
+    cause_value = 8 (0x8) (EPS services and non-EPS services not allowed)
+    esm_msg_container_incl = 0 (0x0)
+    t3346_incl = 0 (0x0)
+    T3402_incl = 1 (0x1)
+    t3402
+      length = 1 (0x1)
+      unit = 1 (0x1)
+      timer_2_value = 12 (0xc)
+    ext_emm_cause_incl = 0 (0x0)
+
+
+Analysis:
+Attach reject Msg Occurred due to Found msg_type = 68 (0x44) (Attach reject)
+Analysis:
+Attach reject Msg Occurred due to Found cause_value = 8 (0x8) (EPS services and non-EPS services not allowed)

@@ -1,0 +1,19 @@
+macId,testRunId,result,testExecutionId,failureReason,startTime,endTime,testCaseId,ftplink
+00:1B:44:11:3A:B7,26,PASSED,8888,PASSED,1675667395070,1675667424500,TC_071_LIVE_LTE_SS_STAB_APM_ON_OFF
+00:1B:44:11:3A:B7,26,PASSED,8888,PASSED,1675667395070,1675667424500,TC_071_LIVE_LTE_SS_STAB_APM_ON_OFF,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,8888,unable to navigate on maps,1675667431970,1675667469810,TC_259_LIVE_LTE_SS_STAB_CALL_MOVoLTE_MAPS
+00:1B:44:11:3A:B7,26,FAILED,8888,unable to navigate on maps,1675667431970,1675667469810,TC_259_LIVE_LTE_SS_STAB_CALL_MOVoLTE_MAPS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,8888,PASSED,1675674534840,1675674567140,TC_071_LIVE_LTE_SS_STAB_APM_ON_OFF
+00:1B:44:11:3A:B7,26,PASSED,8888,PASSED,1675674534840,1675674567140,TC_071_LIVE_LTE_SS_STAB_APM_ON_OFF,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,8888,"Two Devices are needed to execute the test case, 1 device(s) connected",1675674572270,1675674566710,TC_259_LIVE_LTE_SS_STAB_CALL_MOVoLTE_MAPS
+00:1B:44:11:3A:B7,26,FAILED,8888,"Two Devices are needed to execute the test case, 1 device(s) connected",1675674572270,1675674566710,TC_259_LIVE_LTE_SS_STAB_CALL_MOVoLTE_MAPS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,8888,PASSED,1675674625810,1675674658660,TC_071_LIVE_LTE_SS_STAB_APM_ON_OFF
+00:1B:44:11:3A:B7,26,PASSED,8888,PASSED,1675674625810,1675674658660,TC_071_LIVE_LTE_SS_STAB_APM_ON_OFF,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,8888,"Two Devices are needed to execute the test case, 1 device(s) connected",1675674657150,1675674662000,TC_259_LIVE_LTE_SS_STAB_CALL_MOVoLTE_MAPS
+00:1B:44:11:3A:B7,26,FAILED,8888,"Two Devices are needed to execute the test case, 1 device(s) connected",1675674657150,1675674662000,TC_259_LIVE_LTE_SS_STAB_CALL_MOVoLTE_MAPS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,8888,"Two Devices are needed to execute the test case, 1 device(s) connected",1675674714530,1675674709800,TC_259_LIVE_LTE_SS_STAB_CALL_MOVoLTE_MAPS
+00:1B:44:11:3A:B7,26,FAILED,8888,"Two Devices are needed to execute the test case, 1 device(s) connected",1675674714530,1675674709800,TC_259_LIVE_LTE_SS_STAB_CALL_MOVoLTE_MAPS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,8888,"Two Devices are needed to execute the test case, 1 device(s) connected",1675674903910,1675674898980,TC_259_LIVE_LTE_SS_STAB_CALL_MOVoLTE_MAPS
+00:1B:44:11:3A:B7,26,FAILED,8888,"Two Devices are needed to execute the test case, 1 device(s) connected",1675674903910,1675674898980,TC_259_LIVE_LTE_SS_STAB_CALL_MOVoLTE_MAPS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,8888,sim cmd not executed,1675674925150,1675674922770,TC_259_LIVE_LTE_SS_STAB_CALL_MOVoLTE_MAPS
+00:1B:44:11:3A:B7,26,FAILED,8888,sim cmd not executed,1675674925150,1675674922770,TC_259_LIVE_LTE_SS_STAB_CALL_MOVoLTE_MAPS,Logs File Not Created. Check robot_results directory

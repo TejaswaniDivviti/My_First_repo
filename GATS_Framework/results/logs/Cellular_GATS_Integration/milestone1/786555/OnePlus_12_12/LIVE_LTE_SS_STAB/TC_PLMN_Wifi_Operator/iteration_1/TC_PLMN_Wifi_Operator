@@ -1,0 +1,26 @@
+2023-02-24 15:45:08.571 India Standard Time: [log_utils] [setup_logging] [80] [INFO] Logging has been setup
+2023-02-24 15:45:08.926 India Standard Time: [TC_PLMN_Wifi_Operator] [SS_TC_1] [50] [INFO] validating SS sim status
+2023-02-24 15:45:08.926 India Standard Time: [TC_PLMN_Wifi_Operator] [SS_TC_1] [61] [INFO] validating SS sim successful for 2d0c8aa1
+2023-02-24 15:45:08.926 India Standard Time: [TC_PLMN_Wifi_Operator] [execute_mplmn_enable_wifi] [24] [INFO] Enabling wifi
+2023-02-24 15:45:08.926 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 2d0c8aa1:7912
+2023-02-24 15:45:11.227 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:58542
+2023-02-24 15:45:11.237 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:58542 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-24 15:45:12.019 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:58542 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:45:12.021 India Standard Time: [TC_PLMN_Wifi_Operator] [execute_mplmn_enable_wifi] [33] [INFO] perform mplmn 
+2023-02-24 15:45:12.023 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 2d0c8aa1:7912
+2023-02-24 15:45:14.297 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:58542
+2023-02-24 15:45:14.312 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:58542 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-24 15:45:22.096 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:58542 "POST /jsonrpc/0 HTTP/1.1" 200 220
+2023-02-24 15:45:22.161 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:58542 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-24 15:45:22.212 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:58542 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:45:22.297 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:58542 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:45:24.349 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:58542 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-24 15:45:24.400 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:58542 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:45:24.459 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:58542 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:45:24.512 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:58542 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:45:24.561 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:58542 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:45:25.621 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:58542 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:45:25.671 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:58542 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:45:26.739 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:58542 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:45:26.780 India Standard Time: [common_log] [remove_script_log_handler] [71] [DEBUG] Inside remove_script_log_handler
+2023-02-24 15:45:26.780 India Standard Time: [common_log] [remove_script_log_handler] [72] [INFO] [<RobotHandler (NOTSET)>, <StreamHandler (NOTSET)>, <FileHandler C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\786555\OnePlus_12_12\LIVE_LTE_SS_STAB\TC_PLMN_Wifi_Operator\iteration_1\TC_PLMN_Wifi_Operator (DEBUG)>]

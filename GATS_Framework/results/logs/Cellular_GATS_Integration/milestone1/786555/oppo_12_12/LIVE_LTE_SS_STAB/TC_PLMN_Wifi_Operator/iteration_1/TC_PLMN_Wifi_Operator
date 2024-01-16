@@ -1,0 +1,26 @@
+2023-02-24 15:42:16.182 India Standard Time: [log_utils] [setup_logging] [80] [INFO] Logging has been setup
+2023-02-24 15:42:16.523 India Standard Time: [TC_PLMN_Wifi_Operator] [SS_TC_1] [50] [INFO] validating SS sim status
+2023-02-24 15:42:16.523 India Standard Time: [TC_PLMN_Wifi_Operator] [SS_TC_1] [61] [INFO] validating SS sim successful for 5TGYYDGU6PSKOZZH
+2023-02-24 15:42:16.523 India Standard Time: [TC_PLMN_Wifi_Operator] [execute_mplmn_enable_wifi] [24] [INFO] Enabling wifi
+2023-02-24 15:42:16.523 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 5tgyydgu6pskozzh:7912
+2023-02-24 15:42:17.546 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:59008
+2023-02-24 15:42:17.577 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59008 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-24 15:42:18.620 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59008 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-24 15:42:18.620 India Standard Time: [TC_PLMN_Wifi_Operator] [execute_mplmn_enable_wifi] [33] [INFO] perform mplmn 
+2023-02-24 15:42:18.620 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 5tgyydgu6pskozzh:7912
+2023-02-24 15:42:19.633 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:59008
+2023-02-24 15:42:19.650 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59008 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-24 15:42:27.426 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59008 "POST /jsonrpc/0 HTTP/1.1" 200 216
+2023-02-24 15:42:27.493 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59008 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-24 15:42:27.542 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59008 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:42:27.606 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59008 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:42:29.676 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59008 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:42:29.732 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59008 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-24 15:42:29.781 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59008 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:42:29.848 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59008 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-24 15:42:29.911 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59008 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:42:30.982 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59008 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:42:31.036 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59008 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:42:32.102 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59008 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-24 15:42:32.137 India Standard Time: [common_log] [remove_script_log_handler] [71] [DEBUG] Inside remove_script_log_handler
+2023-02-24 15:42:32.137 India Standard Time: [common_log] [remove_script_log_handler] [72] [INFO] [<RobotHandler (NOTSET)>, <StreamHandler (NOTSET)>, <FileHandler C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\786555\oppo_12_12\LIVE_LTE_SS_STAB\TC_PLMN_Wifi_Operator\iteration_1\TC_PLMN_Wifi_Operator (DEBUG)>]

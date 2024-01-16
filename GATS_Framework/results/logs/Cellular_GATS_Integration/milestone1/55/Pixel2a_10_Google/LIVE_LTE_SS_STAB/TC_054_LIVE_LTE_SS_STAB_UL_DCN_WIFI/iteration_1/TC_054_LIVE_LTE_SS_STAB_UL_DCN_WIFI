@@ -1,0 +1,83 @@
+2023-05-02 18:44:11.039 India Standard Time: [log_utils] [setup_logging] [80] [INFO] Logging has been setup
+2023-05-02 18:44:11.707 India Standard Time: [TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI] [SS_22] [63] [INFO] validating SS sim status
+2023-05-02 18:44:11.707 India Standard Time: [TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI] [SS_22] [74] [INFO] validating SS sim successful for 935AY06TSW
+2023-05-02 18:44:11.707 India Standard Time: [TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI] [execute_wifi_upload] [20] [INFO] Enabling wifi
+2023-05-02 18:44:11.707 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 935ay06tsw:7912
+2023-05-02 18:44:13.991 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:60255
+2023-05-02 18:44:14.023 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "GET /wlan/ip HTTP/1.1" 500 25
+2023-05-02 18:44:16.526 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-05-02 18:44:16.526 India Standard Time: [TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI] [execute_wifi_upload] [26] [INFO] wifi is enabled successfully
+2023-05-02 18:44:16.526 India Standard Time: [TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI] [execute_wifi_upload] [31] [INFO] uploading file
+2023-05-02 18:44:16.865 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 935ay06tsw:7912
+2023-05-02 18:44:19.123 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:60255
+2023-05-02 18:44:19.139 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "GET /wlan/ip HTTP/1.1" 500 25
+2023-05-02 18:44:19.139 India Standard Time: [cellular_automation_helpers.common_helper_functions.ui_automator] [upload_file] [426] [INFO] loading file
+2023-05-02 18:44:29.439 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 935ay06tsw:7912
+2023-05-02 18:44:31.719 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:60255
+2023-05-02 18:44:31.749 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "GET /wlan/ip HTTP/1.1" 500 25
+2023-05-02 18:44:31.812 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 228
+2023-05-02 18:44:31.812 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 935ay06tsw:7912
+2023-05-02 18:44:34.071 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:60255
+2023-05-02 18:44:34.103 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "GET /wlan/ip HTTP/1.1" 500 25
+2023-05-02 18:44:34.155 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 227
+2023-05-02 18:44:34.741 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 1398
+2023-05-02 18:44:38.015 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-05-02 18:44:43.558 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:43.682 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:43.815 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-05-02 18:44:44.062 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 302
+2023-05-02 18:44:44.263 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:44.784 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:45.988 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:46.151 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 294
+2023-05-02 18:44:46.353 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:46.353 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 935ay06tsw:7912
+2023-05-02 18:44:48.658 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:60255
+2023-05-02 18:44:48.679 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "GET /wlan/ip HTTP/1.1" 500 25
+2023-05-02 18:44:48.730 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 236
+2023-05-02 18:44:48.811 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 235
+2023-05-02 18:44:48.966 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-05-02 18:44:49.058 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-05-02 18:44:49.160 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-05-02 18:44:49.259 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:49.349 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:49.580 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 320
+2023-05-02 18:44:49.769 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:49.780 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "GET /info HTTP/1.1" 200 653
+2023-05-02 18:44:49.828 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /shell HTTP/1.1" 200 26070
+2023-05-02 18:44:49.881 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /shell HTTP/1.1" 200 26070
+2023-05-02 18:44:49.981 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 236
+2023-05-02 18:44:50.973 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:50.982 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "GET /info HTTP/1.1" 200 653
+2023-05-02 18:44:51.025 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /shell HTTP/1.1" 200 26070
+2023-05-02 18:44:51.072 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /shell HTTP/1.1" 200 26070
+2023-05-02 18:44:51.186 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 235
+2023-05-02 18:44:52.173 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:52.293 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:52.476 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 306
+2023-05-02 18:44:52.674 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:53.042 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:53.295 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 301
+2023-05-02 18:44:53.476 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:54.835 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-05-02 18:44:54.936 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:55.104 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 317
+2023-05-02 18:44:55.304 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:55.505 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:55.605 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:55.721 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 299
+2023-05-02 18:44:55.938 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:57.089 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-05-02 18:44:57.208 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 280
+2023-05-02 18:44:57.388 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:57.487 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:58.613 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 87
+2023-05-02 18:44:58.715 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 291
+2023-05-02 18:44:58.905 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:44:58.905 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 935ay06tsw:7912
+2023-05-02 18:45:01.172 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:60255
+2023-05-02 18:45:01.184 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "GET /wlan/ip HTTP/1.1" 500 25
+2023-05-02 18:45:01.541 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-05-02 18:45:01.654 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:60255 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-05-02 18:45:01.668 India Standard Time: [common_log] [remove_script_log_handler] [71] [DEBUG] Inside remove_script_log_handler
+2023-05-02 18:45:01.668 India Standard Time: [common_log] [remove_script_log_handler] [72] [INFO] [<RobotHandler (NOTSET)>, <StreamHandler (NOTSET)>, <FileHandler C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\55\Pixel2a_10_Google\LIVE_LTE_SS_STAB\TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI\iteration_1\TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI (DEBUG)>]

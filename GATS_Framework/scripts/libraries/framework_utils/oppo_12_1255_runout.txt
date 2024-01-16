@@ -1,0 +1,19 @@
+==============================================================================
+Robot Scripts                                                                 
+==============================================================================
+Robot Scripts.LIVE LTE SS STAB                                                
+==============================================================================
+TC_333_LIVE_LTE_SS_STAB_MT_CONF :: Performing Delta Testcases 220     | FAIL |
+ReferenceError: resourceid is not allowed.
+------------------------------------------------------------------------------
+Robot Scripts.LIVE LTE SS STAB                                        | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Robot Scripts                                                         | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\55\oppo_12_12\LIVE_LTE_SS_STAB\TC_333_LIVE_LTE_SS_STAB_MT_CONF\iteration_1\output.xml
+Log:     C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\55\oppo_12_12\LIVE_LTE_SS_STAB\TC_333_LIVE_LTE_SS_STAB_MT_CONF\iteration_1\log.html
+Report:  C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\55\oppo_12_12\LIVE_LTE_SS_STAB\TC_333_LIVE_LTE_SS_STAB_MT_CONF\iteration_1\report.html

@@ -1,0 +1,21 @@
+macId,testRunId,result,testExecutionId,failureReason,startTime,endTime,testCaseId,ftplink
+00:1B:44:11:3A:B7,26,FAILED,222222,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\swatipat\\Downloads\\MAIN_GATS_CODE\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\2222..",1675319894070,1675319894340,TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW
+00:1B:44:11:3A:B7,26,FAILED,222222,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\swatipat\\Downloads\\MAIN_GATS_CODE\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\2222..",1675319894070,1675319894340,TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,222222,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\swatipat\\Downloads\\MAIN_GATS_CODE\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\2222..",1675320658370,1675320658630,TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW
+00:1B:44:11:3A:B7,26,FAILED,222222,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\swatipat\\Downloads\\MAIN_GATS_CODE\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\2222..",1675320658370,1675320658630,TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,222222,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\swatipat\\Downloads\\MAIN_GATS_CODE\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\2222..",1675321442790,1675321443090,TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW
+00:1B:44:11:3A:B7,26,FAILED,222222,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\swatipat\\Downloads\\MAIN_GATS_CODE\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\2222..",1675321442790,1675321443090,TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,222222,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\swatipat\\Downloads\\MAIN_GATS_CODE\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\2222..",1675321465080,1675321465300,TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW
+00:1B:44:11:3A:B7,26,FAILED,222222,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\swatipat\\Downloads\\MAIN_GATS_CODE\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\2222..",1675321465080,1675321465300,TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,222222,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\swatipat\\Downloads\\MAIN_GATS_CODE\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\2222..",1675321684690,1675321684890,TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW
+00:1B:44:11:3A:B7,26,FAILED,222222,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\swatipat\\Downloads\\MAIN_GATS_CODE\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\2222..",1675321684690,1675321684890,TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW,Logs File Not Created. Check robot_results directory

@@ -1,0 +1,53 @@
+2023-02-02 14:53:19.301 India Standard Time: [log_utils] [setup_logging] [80] [INFO] Logging has been setup
+2023-02-02 14:53:19.670 India Standard Time: [TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW] [SS__14] [51] [INFO] validating SS sim status
+2023-02-02 14:53:19.851 India Standard Time: [TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW] [SS__14] [62] [INFO] validating SS sim successful for 92KAY01TTW
+2023-02-02 14:53:19.851 India Standard Time: [TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW] [execute_wifi_game] [20] [INFO] Enabling wifi
+2023-02-02 14:53:19.851 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-02 14:53:22.169 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:65385
+2023-02-02 14:53:22.190 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-02 14:53:23.560 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-02 14:53:23.560 India Standard Time: [TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW] [execute_wifi_game] [26] [INFO] wifi is enabled successfully
+2023-02-02 14:53:23.560 India Standard Time: [TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW] [execute_wifi_game] [30] [INFO] playing games
+2023-02-02 14:53:23.560 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-02 14:53:25.840 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:65385
+2023-02-02 14:53:25.865 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-02 14:53:25.925 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 238
+2023-02-02 14:53:26.326 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 1945
+2023-02-02 14:53:29.915 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-02 14:53:35.476 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-02 14:53:35.608 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-02 14:53:35.744 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-02 14:53:35.959 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 301
+2023-02-02 14:53:36.158 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-02 14:53:36.158 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-02 14:53:38.461 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:65385
+2023-02-02 14:53:38.486 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "GET /wlan/ip HTTP/1.1" 200 11
+2023-02-02 14:53:38.535 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 225
+2023-02-02 14:53:38.639 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-02 14:54:06.592 India Standard Time: [TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW] [execute_wifi_game] [35] [INFO] True
+2023-02-02 14:54:07.178 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-02 14:54:09.460 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:65385
+2023-02-02 14:54:09.496 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-02 14:54:09.548 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 227
+2023-02-02 14:54:09.622 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-02 14:54:09.698 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-02 14:54:09.866 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-02 14:54:12.258 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-02 14:54:12.408 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-02 14:54:12.577 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-02 14:54:12.764 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-02 14:54:12.935 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-02 14:54:13.111 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-02 14:54:13.259 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-02 14:54:13.453 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-02 14:54:13.931 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-02 14:54:14.073 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-02 14:54:14.192 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-02 14:54:14.448 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 303
+2023-02-02 14:54:14.646 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-02 14:54:14.707 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-02 14:54:16.322 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-02 14:54:16.471 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-02 14:54:16.611 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:65385 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-02 14:54:16.651 India Standard Time: [common_log] [remove_script_log_handler] [71] [DEBUG] Inside remove_script_log_handler
+2023-02-02 14:54:16.651 India Standard Time: [common_log] [remove_script_log_handler] [72] [INFO] [<RobotHandler (NOTSET)>, <StreamHandler (NOTSET)>, <FileHandler C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\22\Pixel_3a_10_Google\LIVE_LTE_SS_STAB\TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW\iteration_1\TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW (DEBUG)>]

@@ -1,0 +1,55 @@
+2022-12-15 16:28:40.428 India Standard Time: [log_utils] [setup_logging] [79] [INFO] Logging has been setup
+2022-12-15 16:28:40.518 India Standard Time: [TC_Stability_Live_Camera_038] [execute_audio_test] [31] [INFO] Entering into Video block
+2022-12-15 16:28:40.655 India Standard Time: [TC_Stability_Live_Camera_038] [execute_audio_test] [39] [INFO] playing songs
+2022-12-15 16:28:40.655 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [play_songs] [1507] [INFO] Preloading audion file into DUT
+2022-12-15 16:28:40.656 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [preload_audio] [1488] [INFO] Preloading Audio Files to Device
+2022-12-15 16:28:40.836 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [play_songs] [1512] [INFO] playing songs
+2022-12-15 16:28:40.904 India Standard Time: [TC_Stability_Live_Camera_038] [execute_audio_test] [44] [INFO] music playing
+2022-12-15 16:28:40.905 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [stop_media] [2678] [INFO] Stopping Media File
+2022-12-15 16:28:41.005 India Standard Time: [TC_Stability_Live_Camera_038] [execute_audio_test] [39] [INFO] playing songs
+2022-12-15 16:28:41.006 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [play_songs] [1507] [INFO] Preloading audion file into DUT
+2022-12-15 16:28:41.006 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [preload_audio] [1488] [INFO] Preloading Audio Files to Device
+2022-12-15 16:28:41.140 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [play_songs] [1512] [INFO] playing songs
+2022-12-15 16:28:41.224 India Standard Time: [TC_Stability_Live_Camera_038] [execute_audio_test] [44] [INFO] music playing
+2022-12-15 16:28:41.224 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [stop_media] [2678] [INFO] Stopping Media File
+2022-12-15 16:28:41.374 India Standard Time: [TC_Stability_Live_Camera_038] [execute_audio_test] [39] [INFO] playing songs
+2022-12-15 16:28:41.374 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [play_songs] [1507] [INFO] Preloading audion file into DUT
+2022-12-15 16:28:41.374 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [preload_audio] [1488] [INFO] Preloading Audio Files to Device
+2022-12-15 16:28:41.494 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [play_songs] [1512] [INFO] playing songs
+2022-12-15 16:28:41.575 India Standard Time: [TC_Stability_Live_Camera_038] [execute_audio_test] [44] [INFO] music playing
+2022-12-15 16:28:41.575 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [stop_media] [2678] [INFO] Stopping Media File
+2022-12-15 16:28:41.664 India Standard Time: [TC_Stability_Live_Camera_038] [execute_audio_test] [39] [INFO] playing songs
+2022-12-15 16:28:41.664 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [play_songs] [1507] [INFO] Preloading audion file into DUT
+2022-12-15 16:28:41.665 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [preload_audio] [1488] [INFO] Preloading Audio Files to Device
+2022-12-15 16:28:41.793 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [play_songs] [1512] [INFO] playing songs
+2022-12-15 16:28:41.855 India Standard Time: [TC_Stability_Live_Camera_038] [execute_audio_test] [44] [INFO] music playing
+2022-12-15 16:28:41.856 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [stop_media] [2678] [INFO] Stopping Media File
+2022-12-15 16:28:41.980 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): a15b28cf:7912
+2022-12-15 16:28:44.272 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:59340
+2022-12-15 16:28:44.285 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "GET /wlan/ip HTTP/1.1" 500 25
+2022-12-15 16:28:44.332 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 226
+2022-12-15 16:28:44.353 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2022-12-15 16:28:44.371 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2022-12-15 16:28:44.814 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2022-12-15 16:28:46.969 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2022-12-15 16:28:47.047 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2022-12-15 16:28:47.155 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2022-12-15 16:28:47.219 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2022-12-15 16:28:47.329 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2022-12-15 16:28:47.382 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2022-12-15 16:28:47.539 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2022-12-15 16:28:47.689 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2022-12-15 16:28:47.825 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 329
+2022-12-15 16:28:48.001 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2022-12-15 16:29:18.246 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 502 0
+2022-12-15 16:29:18.247 India Standard Time: [filelock] [acquire] [169] [DEBUG] Attempting to acquire lock 246791856 on C:\Users\sysadmin/.uiautomator2/filelocks/a15b28cf.lock
+2022-12-15 16:29:18.247 India Standard Time: [filelock] [acquire] [173] [DEBUG] Lock 246791856 acquired on C:\Users\sysadmin/.uiautomator2/filelocks/a15b28cf.lock
+2022-12-15 16:29:18.337 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 197
+2022-12-15 16:29:18.339 India Standard Time: [filelock] [release] [203] [DEBUG] Attempting to release lock 246791856 on C:\Users\sysadmin/.uiautomator2/filelocks/a15b28cf.lock
+2022-12-15 16:29:18.339 India Standard Time: [filelock] [release] [206] [DEBUG] Lock 246791856 released on C:\Users\sysadmin/.uiautomator2/filelocks/a15b28cf.lock
+2022-12-15 16:29:18.354 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2022-12-15 16:29:19.843 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2022-12-15 16:29:19.910 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2022-12-15 16:29:19.996 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:59340 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2022-12-15 16:29:20.041 India Standard Time: [common_log] [remove_script_log_handler] [70] [DEBUG] Inside remove_script_log_handler
+2022-12-15 16:29:20.042 India Standard Time: [common_log] [remove_script_log_handler] [71] [INFO] [<StreamHandler (NOTSET)>, <RobotHandler (NOTSET)>, <StreamHandler (NOTSET)>, <FileHandler D:\LGDEMO\cellular_automation\SDLC\Coding\GATS\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\Pixel3a_12_12\Stability_Live\TC_Stability_Live_Camera_038\iteration_1\TC_Stability_Live_Camera_038_20221215-162840 (DEBUG)>]

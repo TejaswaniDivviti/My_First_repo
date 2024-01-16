@@ -1,0 +1,27 @@
+2022-12-16 10:40:14.090 India Standard Time: [log_utils] [setup_logging] [79] [INFO] Logging has been setup
+2022-12-16 10:40:14.300 India Standard Time: [TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP] [SS_1] [98] [INFO] validating SS sim status
+2022-12-16 10:40:14.360 India Standard Time: [TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP] [SS_1] [109] [INFO] validating SS sim successful for a15b28cf
+2022-12-16 10:40:14.360 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [trigger_volte_call] [600] [INFO] Calling from device 92KAY01TTW ===> adb -s 92KAY01TTW shell am start -a android.intent.action.CALL -d tel:7829887654
+2022-12-16 10:40:24.489 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [perform_a2b_call] [2572] [INFO] Receiving call in device B
+2022-12-16 10:40:24.489 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [accept_call] [635] [DEBUG] Receiving call in device a15b28cf ===> adb -s a15b28cf shell input keyevent KEYCODE_CALL
+2022-12-16 10:40:24.620 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [accept_call] [642] [INFO] Call received Successfully
+2022-12-16 10:40:24.620 India Standard Time: [TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP] [execute_update_app] [52] [INFO] performing a2b call is success
+2022-12-16 10:40:24.620 India Standard Time: [TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP] [execute_update_app] [55] [INFO] Enabling wifi
+2022-12-16 10:40:24.627 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): a15b28cf:7912
+2022-12-16 10:40:26.934 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:50435
+2022-12-16 10:40:26.967 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:50435 "GET /wlan/ip HTTP/1.1" 500 25
+2022-12-16 10:40:28.523 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:50435 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2022-12-16 10:40:28.524 India Standard Time: [TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP] [execute_update_app] [71] [INFO] sending sms
+2022-12-16 10:40:28.526 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): a15b28cf:7912
+2022-12-16 10:40:30.800 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:50435
+2022-12-16 10:40:30.826 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:50435 "GET /wlan/ip HTTP/1.1" 500 25
+2022-12-16 10:40:33.026 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:50435 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2022-12-16 10:40:33.162 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:50435 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2022-12-16 10:40:33.242 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:50435 "POST /jsonrpc/0 HTTP/1.1" 200 309
+2022-12-16 10:40:33.429 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:50435 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2022-12-16 10:40:38.438 India Standard Time: [TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP] [execute_update_app] [78] [INFO] Test case executed successfully
+2022-12-16 10:40:38.438 India Standard Time: [TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP] [execute_update_app] [81] [INFO] Terminating call in device A
+2022-12-16 10:40:38.438 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [terminate_call] [693] [DEBUG] Terminating call in device a15b28cf ===> adb -s a15b28cf shell input keyevent KEYCODE_ENDCALL
+2022-12-16 10:40:38.573 India Standard Time: [cellular_automation_helpers.common_helper_functions.adb_command_functions] [terminate_call] [700] [INFO] Call terminated Successfully
+2022-12-16 10:40:38.612 India Standard Time: [common_log] [remove_script_log_handler] [70] [DEBUG] Inside remove_script_log_handler
+2022-12-16 10:40:38.612 India Standard Time: [common_log] [remove_script_log_handler] [71] [INFO] [<RobotHandler (NOTSET)>, <StreamHandler (NOTSET)>, <FileHandler D:\LGDEMO\cellular_automation\SDLC\Coding\GATS\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\sss_12_12\LIVE_LTE_SS_STAB\TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP\iteration_1\TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP_20221216-104014 (DEBUG)>]

@@ -1,0 +1,19 @@
+2023-02-09 15:44:43.198 India Standard Time: [log_utils] [setup_logging] [80] [INFO] Logging has been setup
+2023-02-09 15:44:43.519 India Standard Time: [TC_500_LIVE_MAP_SEARCH] [SS_500] [84] [INFO] validating SS sim status
+2023-02-09 15:44:43.519 India Standard Time: [TC_500_LIVE_MAP_SEARCH] [SS_500] [95] [INFO] validating SS sim successful for 92KAY01TTW
+2023-02-09 15:44:43.519 India Standard Time: [TC_500_LIVE_MAP_SEARCH] [maps] [26] [INFO] Check mobile data status
+2023-02-09 15:44:44.058 India Standard Time: [cellular_automation_helpers.common_helper_functions.ui_automator] [perform_maps_task] [540] [INFO] enabling gps
+2023-02-09 15:44:44.252 India Standard Time: [cellular_automation_helpers.common_helper_functions.ui_automator] [perform_maps_task] [548] [INFO] opening google maps
+2023-02-09 15:44:44.252 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-09 15:44:56.814 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:57037
+2023-02-09 15:44:56.830 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:57037 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-09 15:44:56.882 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:57037 "POST /jsonrpc/0 HTTP/1.1" 200 239
+2023-02-09 15:44:58.318 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:57037 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-09 15:44:58.417 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:57037 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-09 15:44:58.576 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:57037 "POST /jsonrpc/0 HTTP/1.1" 200 302
+2023-02-09 15:44:58.775 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:57037 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-09 15:45:19.534 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:57037 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-09 15:45:19.883 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:57037 "GET /screenshot/0 HTTP/1.1" 200 178403
+2023-02-09 15:45:24.912 India Standard Time: [cellular_automation_helpers.common_helper_functions.ui_automator] [perform_maps_task] [553] [INFO] unable to navigate on maps
+2023-02-09 15:45:24.913 India Standard Time: [common_log] [remove_script_log_handler] [71] [DEBUG] Inside remove_script_log_handler
+2023-02-09 15:45:24.913 India Standard Time: [common_log] [remove_script_log_handler] [72] [INFO] [<RobotHandler (NOTSET)>, <StreamHandler (NOTSET)>, <FileHandler C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\786555\Pixel3a_10_Google\LIVE_LTE_SS_STAB\TC_500_LIVE_MAP_SEARCH\iteration_1\TC_500_LIVE_MAP_SEARCH (DEBUG)>]

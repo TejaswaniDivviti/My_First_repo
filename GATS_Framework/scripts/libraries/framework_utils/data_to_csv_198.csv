@@ -1,0 +1,5 @@
+macId,testRunId,result,testExecutionId,failureReason,startTime,endTime,testCaseId,ftplink
+00:1B:44:11:3A:B7,26,FAILED,198,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\swatipat\\Downloads\\MAIN_GATS_CODE\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\198\..",1675173425130,1675173425460,TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW
+00:1B:44:11:3A:B7,26,FAILED,198,"Setup failed:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\swatipat\\Downloads\\MAIN_GATS_CODE\\GATS_Django_Framework\\results\\logs\\Cellular_GATS_Integration\\milestone1\\198\..",1675173425130,1675173425460,TC_042_LIVE_LTE_SS_STAB_turnOFF_WIF_WIFINW,Logs File Not Created. Check robot_results directory

@@ -1,0 +1,5 @@
+2023-05-02 10:37:14.770 India Standard Time: [log_utils] [setup_logging] [80] [INFO] Logging has been setup
+2023-05-02 10:37:15.343 India Standard Time: [TC_053_LIVE_LTE_SS_STAB_DL_DCN_WIFI] [SS_21] [58] [INFO] validating SS sim status
+2023-05-02 10:37:15.618 India Standard Time: [TC_053_LIVE_LTE_SS_STAB_DL_DCN_WIFI] [SS_21] [66] [INFO] validating SS sim status failed for 2d0c8aa1                         device is failed
+2023-05-02 10:37:15.649 India Standard Time: [common_log] [remove_script_log_handler] [71] [DEBUG] Inside remove_script_log_handler
+2023-05-02 10:37:15.649 India Standard Time: [common_log] [remove_script_log_handler] [72] [INFO] [<RobotHandler (NOTSET)>, <StreamHandler (NOTSET)>, <FileHandler C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\OnePlus_12_12\LIVE_LTE_SS_STAB\TC_053_LIVE_LTE_SS_STAB_DL_DCN_WIFI\iteration_1\TC_053_LIVE_LTE_SS_STAB_DL_DCN_WIFI (DEBUG)>]

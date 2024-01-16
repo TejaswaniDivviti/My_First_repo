@@ -1,0 +1,17 @@
+macId,testRunId,result,testExecutionId,failureReason,startTime,endTime,testCaseId,ftplink
+00:1B:44:11:3A:B7,26,FAILED,21,Keyword with same name defined multiple times.,1678944200420,1678944192110,TC_9_LIVE_LTE_DSDS_STAB_DL_data_Deact_SIM1
+00:1B:44:11:3A:B7,26,FAILED,21,Keyword with same name defined multiple times.,1678944200420,1678944192110,TC_9_LIVE_LTE_DSDS_STAB_DL_data_Deact_SIM1,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,21,Deactivation Failed,1678944519740,1678944565280,TC_9_LIVE_LTE_DSDS_STAB_DL_data_Deact_SIM1
+00:1B:44:11:3A:B7,26,FAILED,21,Deactivation Failed,1678944519740,1678944565280,TC_9_LIVE_LTE_DSDS_STAB_DL_data_Deact_SIM1,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,21,Deactivation Failed,1678944624680,1678944668810,TC_9_LIVE_LTE_DSDS_STAB_DL_data_Deact_SIM1
+00:1B:44:11:3A:B7,26,FAILED,21,Deactivation Failed,1678944624680,1678944668810,TC_9_LIVE_LTE_DSDS_STAB_DL_data_Deact_SIM1,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,21,Deactivation Failed,1678945145520,1678945195190,TC_9_LIVE_LTE_DSDS_STAB_DL_data_Deact_SIM1
+00:1B:44:11:3A:B7,26,FAILED,21,Deactivation Failed,1678945145520,1678945195190,TC_9_LIVE_LTE_DSDS_STAB_DL_data_Deact_SIM1,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,21,Deactivation Failed,1678945302890,1678945339410,TC_9_LIVE_LTE_DSDS_STAB_DL_data_Deact_SIM1
+00:1B:44:11:3A:B7,26,FAILED,21,Deactivation Failed,1678945302890,1678945339410,TC_9_LIVE_LTE_DSDS_STAB_DL_data_Deact_SIM1,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,21,Activation Failed,1678945534040,1678945577360,TC_9_LIVE_LTE_DSDS_STAB_DL_data_Deact_SIM1
+00:1B:44:11:3A:B7,26,FAILED,21,Activation Failed,1678945534040,1678945577360,TC_9_LIVE_LTE_DSDS_STAB_DL_data_Deact_SIM1,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,21,Activation Failed,1678946102980,1678946188580,TC_9_LIVE_LTE_DSDS_STAB_DL_data_Deact_SIM1
+00:1B:44:11:3A:B7,26,FAILED,21,Activation Failed,1678946102980,1678946188580,TC_9_LIVE_LTE_DSDS_STAB_DL_data_Deact_SIM1,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,21,Deactivation Failed,1678946842640,1678946904430,TC_9_LIVE_LTE_DSDS_STAB_DL_data_Deact_SIM1
+00:1B:44:11:3A:B7,26,FAILED,21,Deactivation Failed,1678946842640,1678946904430,TC_9_LIVE_LTE_DSDS_STAB_DL_data_Deact_SIM1,Logs File Not Created. Check robot_results directory

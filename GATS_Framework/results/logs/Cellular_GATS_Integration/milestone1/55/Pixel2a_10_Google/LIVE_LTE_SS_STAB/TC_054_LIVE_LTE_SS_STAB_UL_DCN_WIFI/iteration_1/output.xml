@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.1 (Python 3.10.11 on win32)" generated="20230502 18:44:07.633" rpa="false">
+<suite id="s1" name="Robot Scripts" source="C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\scripts\robot_scripts">
+<suite id="s1-s1" name="LIVE LTE SS STAB" source="C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\scripts\robot_scripts\LIVE_LTE_SS_STAB.robot">
+<test id="s1-s1-t1" name="TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI">
+<kw name="Run Keywords" library="BuiltIn" type="setup">
+<doc>Executes all the given keywords in a sequence.</doc>
+<arguments>
+<arg>Setup Log</arg>
+<arg>${dict.project}</arg>
+<arg>${dict.milestone}</arg>
+<arg>${dict.session}</arg>
+<arg>${dict.device}</arg>
+<arg>${dict.iter}</arg>
+<arg>LIVE_LTE_SS_STAB</arg>
+<arg>@{TEST TAGS}</arg>
+<arg>AND</arg>
+<arg>Start Device Log</arg>
+<arg>${yamlData}</arg>
+<arg>${log_type}</arg>
+</arguments>
+<kw name="Setup Log" library="res_common">
+<arguments>
+<arg>${dict.project}</arg>
+<arg>${dict.milestone}</arg>
+<arg>${dict.session}</arg>
+<arg>${dict.device}</arg>
+<arg>${dict.iter}</arg>
+<arg>LIVE_LTE_SS_STAB</arg>
+<arg>@{TEST TAGS}</arg>
+</arguments>
+<kw name="Setup Logging" library="common_log">
+<doc>Generates script level logs
+:param project: Project name
+:param milestone: Milestone name
+:param session: Session name
+:param device: Device name
+:param suite: Suite name
+:param auto_id: Automation id(test case id)
+:return: h.vinay@globaledgesoft.com</doc>
+<arguments>
+<arg>${arg1}</arg>
+<arg>${arg2}</arg>
+<arg>${arg3}</arg>
+<arg>${arg4}</arg>
+<arg>${arg5}</arg>
+<arg>${arg6}</arg>
+<arg>${arg7}</arg>
+</arguments>
+<msg timestamp="20230502 18:44:11.029" level="INFO">executing setup logging</msg>
+<msg timestamp="20230502 18:44:11.029" level="INFO">Filename:TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI</msg>
+<msg timestamp="20230502 18:44:11.039" level="INFO">Logging has been setup</msg>
+<msg timestamp="20230502 18:44:11.039" level="INFO">Inside common log: Cellular_GATS_Integration milestone1 55 Pixel2a_10_Google iteration_1 LIVE_LTE_SS_STAB TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI
+Inside log_utils_setup Cellular_GATS_Integration milestone1 55 Pixel2a_10_Google LIVE_LTE_SS_STAB TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI iteration_1
+session_dir:Cellular_GATS_Integration\milestone1\55
+device:Pixel2a_10_Google
+suite:LIVE_LTE_SS_STAB
+file_name:TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI
+iteration:iteration_1
+log_directory:C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\55\Pixel2a_10_Google\LIVE_LTE_SS_STAB\TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI\iteration_1
+[log_utils] setup_logging 80 INFO Logging has been setup</msg>
+<status status="PASS" starttime="20230502 18:44:11.029" endtime="20230502 18:44:11.039"></status>
+</kw>
+<status status="PASS" starttime="20230502 18:44:11.029" endtime="20230502 18:44:11.039"></status>
+</kw>
+<kw name="Start device Log" library="res_common">
+<arguments>
+<arg>${yamlData}</arg>
+<arg>${log_type}</arg>
+</arguments>
+<kw name="Update The Ymal" library="common_functions">
+<arguments>
+<arg>${yamlData}</arg>
+</arguments>
+<assign>
+<var>${yamlData}</var>
+</assign>
+<msg timestamp="20230502 18:44:11.084" level="INFO">${yamlData} = {'common_args': {'Call_duration': 10, 'HTTPS_LINKS': ['https://play.google.com/store/apps/details?id=com.asteor.synergita&amp;hl=TRs', 'https://play.google.com/store/apps/details?id=com.poly.live&amp;hl=TRs',...</msg>
+<status status="PASS" starttime="20230502 18:44:11.039" endtime="20230502 18:44:11.084"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>"Starting Modem Logs"</arg>
+</arguments>
+<status status="PASS" starttime="20230502 18:44:11.084" endtime="20230502 18:44:11.084"></status>
+</kw>
+<kw name="Device Logging" library="device_reports">
+<arguments>
+<arg>${yamlData}</arg>
+<arg>${TEST NAME}</arg>
+<arg>${log_type}</arg>
+<arg>START</arg>
+</arguments>
+<msg timestamp="20230502 18:44:11.094" level="INFO">935AY06TSW</msg>
+<status status="PASS" starttime="20230502 18:44:11.094" endtime="20230502 18:44:11.094"></status>
+</kw>
+<status status="PASS" starttime="20230502 18:44:11.039" endtime="20230502 18:44:11.094"></status>
+</kw>
+<status status="PASS" starttime="20230502 18:44:11.029" endtime="20230502 18:44:11.094"></status>
+</kw>
+<kw name="LIVE_SS__22" library="res_common">
+<arguments>
+<arg>TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI</arg>
+<arg>${yamlData}</arg>
+<arg>${log_type}</arg>
+</arguments>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>SS__22</arg>
+</arguments>
+<status status="PASS" starttime="20230502 18:44:11.094" endtime="20230502 18:44:11.094"></status>
+</kw>
+<kw name="SS 22" library="TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI">
+<arguments>
+<arg>${tst}</arg>
+<arg>${yamlData}</arg>
+</arguments>
+<assign>
+<var>${adb_res}</var>
+<var>${msg}</var>
+</assign>
+<msg timestamp="20230502 18:44:11.707" level="INFO">validating SS sim status</msg>
+<msg timestamp="20230502 18:44:11.707" level="INFO">validating SS sim successful for 935AY06TSW</msg>
+<msg timestamp="20230502 18:44:11.707" level="INFO">Enabling wifi</msg>
+<msg timestamp="20230502 18:44:16.527" level="INFO">wifi is enabled successfully</msg>
+<msg timestamp="20230502 18:44:16.527" level="INFO">uploading file</msg>
+<msg timestamp="20230502 18:44:19.140" level="INFO">loading file</msg>
+<msg timestamp="20230502 18:45:01.654" level="INFO">b'Starting: Intent { act=android.intent.action.VIEW dat=https://play.google.com/... }\r\n' return code --- &gt;0
+error --- &gt;None True</msg>
+<msg timestamp="20230502 18:45:01.662" level="FAIL">TypeError: cannot unpack non-iterable bool object</msg>
+<status status="FAIL" starttime="20230502 18:44:11.094" endtime="20230502 18:45:01.662"></status>
+</kw>
+<status status="FAIL" starttime="20230502 18:44:11.094" endtime="20230502 18:45:01.662"></status>
+</kw>
+<kw name="Run Keywords" library="BuiltIn" type="teardown">
+<doc>Executes all the given keywords in a sequence.</doc>
+<arguments>
+<arg>Stop Device Log</arg>
+<arg>${yamlData}</arg>
+<arg>${log_type}</arg>
+<arg>AND</arg>
+<arg>Remove Log Handler</arg>
+</arguments>
+<kw name="Stop device Log" library="res_common">
+<arguments>
+<arg>${yamlData}</arg>
+<arg>${log_type}</arg>
+</arguments>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>"Stopping Modem Logs"</arg>
+</arguments>
+<status status="PASS" starttime="20230502 18:45:01.668" endtime="20230502 18:45:01.668"></status>
+</kw>
+<kw name="Device Logging" library="device_reports">
+<arguments>
+<arg>${yamlData}</arg>
+<arg>${TEST NAME}</arg>
+<arg>${log_type}</arg>
+<arg>STOP</arg>
+</arguments>
+<msg timestamp="20230502 18:45:01.668" level="INFO">935AY06TSW</msg>
+<status status="PASS" starttime="20230502 18:45:01.668" endtime="20230502 18:45:01.668"></status>
+</kw>
+<status status="PASS" starttime="20230502 18:45:01.662" endtime="20230502 18:45:01.668"></status>
+</kw>
+<kw name="Remove Log Handler" library="res_common">
+<kw name="Remove Script Log Handler" library="common_log">
+<doc>Removes all the logging handlers
+:return: None</doc>
+<msg timestamp="20230502 18:45:01.668" level="INFO">[&lt;RobotHandler (NOTSET)&gt;, &lt;StreamHandler (NOTSET)&gt;, &lt;FileHandler C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\55\Pixel2a_10_Google\LIVE_LTE_SS_STAB\TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI\iteration_1\TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI (DEBUG)&gt;]</msg>
+<status status="PASS" starttime="20230502 18:45:01.668" endtime="20230502 18:45:01.668"></status>
+</kw>
+<status status="PASS" starttime="20230502 18:45:01.668" endtime="20230502 18:45:01.668"></status>
+</kw>
+<status status="PASS" starttime="20230502 18:45:01.662" endtime="20230502 18:45:01.668"></status>
+</kw>
+<doc>Performing Delta Testcases 22</doc>
+<tags>
+<tag>TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI</tag>
+</tags>
+<timeout value="1 hour 5 minutes"></timeout>
+<status status="FAIL" starttime="20230502 18:44:11.027" endtime="20230502 18:45:01.668" critical="yes">TypeError: cannot unpack non-iterable bool object</status>
+</test>
+<kw name="Run Keyword" library="BuiltIn" type="teardown">
+<doc>Executes the given keyword with the given arguments.</doc>
+<arguments>
+<arg>Fill Excel</arg>
+<arg>${log_type}</arg>
+</arguments>
+<kw name="Fill Excel" library="res_common">
+<arguments>
+<arg>${log_type}</arg>
+</arguments>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>"Creating Excel Sheet"</arg>
+</arguments>
+<msg timestamp="20230502 18:45:01.730" level="INFO">"Creating Excel Sheet"</msg>
+<status status="PASS" starttime="20230502 18:45:01.730" endtime="20230502 18:45:01.730"></status>
+</kw>
+<kw name="Create Excel" library="excel_sheet">
+<arguments>
+<arg>${log_type}</arg>
+</arguments>
+<msg timestamp="20230502 18:45:01.778" level="INFO">[]</msg>
+<status status="PASS" starttime="20230502 18:45:01.730" endtime="20230502 18:45:01.778"></status>
+</kw>
+<status status="PASS" starttime="20230502 18:45:01.730" endtime="20230502 18:45:01.778"></status>
+</kw>
+<status status="PASS" starttime="20230502 18:45:01.730" endtime="20230502 18:45:01.778"></status>
+</kw>
+<status status="FAIL" starttime="20230502 18:44:07.654" endtime="20230502 18:45:01.778"></status>
+</suite>
+<status status="FAIL" starttime="20230502 18:44:07.633" endtime="20230502 18:45:01.778"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+<stat pass="0" fail="1">TC_054_LIVE_LTE_SS_STAB_UL_DCN_WIFI</stat>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="Robot Scripts">Robot Scripts</stat>
+<stat pass="0" fail="1" id="s1-s1" name="LIVE LTE SS STAB">Robot Scripts.LIVE LTE SS STAB</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

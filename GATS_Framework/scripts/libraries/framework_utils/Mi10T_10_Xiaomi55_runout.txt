@@ -1,0 +1,19 @@
+==============================================================================
+Robot Scripts                                                                 
+==============================================================================
+Robot Scripts.LIVE LTE SS STAB                                                
+==============================================================================
+TC_451_LIVE_LTE_SS_STAB_WIFI_UL_Calls :: Performing Delta Testcase... | FAIL |
+Ui not met
+------------------------------------------------------------------------------
+Robot Scripts.LIVE LTE SS STAB                                        | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Robot Scripts                                                         | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\55\Mi10T_10_Xiaomi\LIVE_LTE_SS_STAB\TC_451_LIVE_LTE_SS_STAB_WIFI_UL_Calls\iteration_1\output.xml
+Log:     C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\55\Mi10T_10_Xiaomi\LIVE_LTE_SS_STAB\TC_451_LIVE_LTE_SS_STAB_WIFI_UL_Calls\iteration_1\log.html
+Report:  C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\55\Mi10T_10_Xiaomi\LIVE_LTE_SS_STAB\TC_451_LIVE_LTE_SS_STAB_WIFI_UL_Calls\iteration_1\report.html

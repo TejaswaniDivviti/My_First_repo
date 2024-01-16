@@ -1,0 +1,36 @@
+==============================================================================
+Robot Scripts                                                                 
+==============================================================================
+Robot Scripts.Stability Live :: Executing Stablity Testcases.                 
+==============================================================================
+TC_Stability_Live_Volte_003 :: Performing Delta Testcases 330         | PASS |
+------------------------------------------------------------------------------
+Robot Scripts.Stability Live :: Executing Stablity Testcases.         | PASS |
+1 critical test, 1 passed, 0 failed
+1 test total, 1 passed, 0 failed
+==============================================================================
+Robot Scripts                                                         | PASS |
+1 critical test, 1 passed, 0 failed
+1 test total, 1 passed, 0 failed
+==============================================================================
+Output:  D:\LGDEMO\cellular_automation\SDLC\Coding\GATS\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\sss_12_12\Stability_Live\TC_Stability_Live_Volte_003\iteration_1\output.xml
+Log:     D:\LGDEMO\cellular_automation\SDLC\Coding\GATS\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\sss_12_12\Stability_Live\TC_Stability_Live_Volte_003\iteration_1\log.html
+Report:  D:\LGDEMO\cellular_automation\SDLC\Coding\GATS\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\sss_12_12\Stability_Live\TC_Stability_Live_Volte_003\iteration_1\report.html
+==============================================================================
+Robot Scripts                                                                 
+==============================================================================
+Robot Scripts.LIVE LTE SS STAB                                                
+==============================================================================
+TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP :: Performing Delta Testcases 1  | PASS |
+------------------------------------------------------------------------------
+Robot Scripts.LIVE LTE SS STAB                                        | PASS |
+1 critical test, 1 passed, 0 failed
+1 test total, 1 passed, 0 failed
+==============================================================================
+Robot Scripts                                                         | PASS |
+1 critical test, 1 passed, 0 failed
+1 test total, 1 passed, 0 failed
+==============================================================================
+Output:  D:\LGDEMO\cellular_automation\SDLC\Coding\GATS\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\sss_12_12\LIVE_LTE_SS_STAB\TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP\iteration_1\output.xml
+Log:     D:\LGDEMO\cellular_automation\SDLC\Coding\GATS\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\sss_12_12\LIVE_LTE_SS_STAB\TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP\iteration_1\log.html
+Report:  D:\LGDEMO\cellular_automation\SDLC\Coding\GATS\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\1\sss_12_12\LIVE_LTE_SS_STAB\TC_023_LIVE_LTE_SS_STAB_WIFI_UPD_APP\iteration_1\report.html

@@ -1,0 +1,326 @@
+2023-02-23 18:47:15.985 India Standard Time: [log_utils] [setup_logging] [80] [INFO] Logging has been setup
+2023-02-23 18:47:16.387 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [SS_1000000] [66] [INFO] validating SS sim status
+2023-02-23 18:47:16.387 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [SS_1000000] [77] [INFO] validating SS sim successful for 92KAY01TTW
+2023-02-23 18:47:16.389 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [20] [INFO] Enabling wifi
+2023-02-23 18:47:16.389 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:47:19.064 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:47:19.099 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:47:20.730 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:47:20.730 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [26] [INFO] wifi is enabled successfully
+2023-02-23 18:47:30.735 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [29] [INFO] Enable bluetooth!!!
+2023-02-23 18:47:30.735 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:47:33.030 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:47:33.062 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:47:33.111 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 241
+2023-02-23 18:47:38.796 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:47:44.431 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:47:44.597 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:47:44.597 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [34] [INFO] wifi is enabled successfully
+2023-02-23 18:47:54.609 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [37] [INFO] disable bluetooth!!!
+2023-02-23 18:47:54.830 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:47:57.106 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:47:57.154 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:47:57.218 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 225
+2023-02-23 18:47:57.334 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:47:57.450 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:47:57.670 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 289
+2023-02-23 18:47:57.880 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-23 18:47:57.880 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [42] [INFO] wifi is enabled successfully
+2023-02-23 18:48:07.888 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [48] [INFO] disconnecting wifi
+2023-02-23 18:48:08.466 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [53] [INFO] Wifi Turn Off
+2023-02-23 18:48:18.474 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [20] [INFO] Enabling wifi
+2023-02-23 18:48:18.474 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:48:20.764 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:48:20.788 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-23 18:48:22.335 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:48:22.335 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [26] [INFO] wifi is enabled successfully
+2023-02-23 18:48:32.337 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [29] [INFO] Enable bluetooth!!!
+2023-02-23 18:48:32.341 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:48:34.619 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:48:34.635 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:48:34.675 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 238
+2023-02-23 18:48:36.094 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-23 18:48:36.213 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:48:36.400 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 288
+2023-02-23 18:48:36.590 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-23 18:48:42.202 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:48:42.346 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:48:42.346 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [34] [INFO] wifi is enabled successfully
+2023-02-23 18:48:52.352 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [37] [INFO] disable bluetooth!!!
+2023-02-23 18:48:52.584 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:48:54.873 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:48:54.898 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:48:54.947 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 228
+2023-02-23 18:48:55.056 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:48:55.176 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:48:55.356 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 288
+2023-02-23 18:48:55.564 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:48:55.564 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [42] [INFO] wifi is enabled successfully
+2023-02-23 18:49:05.571 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [48] [INFO] disconnecting wifi
+2023-02-23 18:49:06.123 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [53] [INFO] Wifi Turn Off
+2023-02-23 18:49:16.138 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [20] [INFO] Enabling wifi
+2023-02-23 18:49:16.138 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:49:18.426 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:49:18.466 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-23 18:49:20.053 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:49:20.053 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [26] [INFO] wifi is enabled successfully
+2023-02-23 18:49:30.057 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [29] [INFO] Enable bluetooth!!!
+2023-02-23 18:49:30.057 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:49:32.349 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:49:32.381 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-23 18:49:32.445 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 239
+2023-02-23 18:49:33.787 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:49:33.871 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-23 18:49:34.056 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 286
+2023-02-23 18:49:34.240 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:49:39.773 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:49:39.918 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:49:39.918 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [34] [INFO] wifi is enabled successfully
+2023-02-23 18:49:49.930 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [37] [INFO] disable bluetooth!!!
+2023-02-23 18:49:50.171 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:49:52.664 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:49:52.705 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:49:52.761 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 226
+2023-02-23 18:49:52.866 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:49:52.970 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-23 18:49:53.152 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 288
+2023-02-23 18:49:53.342 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-23 18:49:53.342 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [42] [INFO] wifi is enabled successfully
+2023-02-23 18:50:03.345 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [48] [INFO] disconnecting wifi
+2023-02-23 18:50:03.884 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [53] [INFO] Wifi Turn Off
+2023-02-23 18:50:13.892 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [20] [INFO] Enabling wifi
+2023-02-23 18:50:13.895 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:50:16.180 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:50:16.202 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-23 18:50:17.671 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:50:17.679 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [26] [INFO] wifi is enabled successfully
+2023-02-23 18:50:27.686 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [29] [INFO] Enable bluetooth!!!
+2023-02-23 18:50:27.686 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:50:29.967 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:50:30.007 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:50:30.080 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 238
+2023-02-23 18:50:31.435 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:50:31.539 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:50:31.713 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 288
+2023-02-23 18:50:31.916 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:50:37.574 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:50:37.710 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:50:37.710 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [34] [INFO] wifi is enabled successfully
+2023-02-23 18:50:47.713 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [37] [INFO] disable bluetooth!!!
+2023-02-23 18:50:47.948 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:50:50.231 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:50:50.255 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:50:50.319 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 226
+2023-02-23 18:50:50.451 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:50:50.577 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:50:50.811 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 287
+2023-02-23 18:50:51.019 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:50:51.019 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [42] [INFO] wifi is enabled successfully
+2023-02-23 18:51:01.027 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [48] [INFO] disconnecting wifi
+2023-02-23 18:51:01.569 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [53] [INFO] Wifi Turn Off
+2023-02-23 18:51:11.581 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [20] [INFO] Enabling wifi
+2023-02-23 18:51:11.581 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:51:13.863 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:51:13.903 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-23 18:51:15.446 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:51:15.454 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [26] [INFO] wifi is enabled successfully
+2023-02-23 18:51:25.456 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [29] [INFO] Enable bluetooth!!!
+2023-02-23 18:51:25.461 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:51:27.759 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:51:27.784 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:51:27.865 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 239
+2023-02-23 18:51:29.242 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:51:29.348 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-23 18:51:29.527 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 287
+2023-02-23 18:51:29.716 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:51:35.327 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:51:35.453 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:51:35.453 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [34] [INFO] wifi is enabled successfully
+2023-02-23 18:51:45.456 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [37] [INFO] disable bluetooth!!!
+2023-02-23 18:51:45.690 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:51:47.967 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:51:48.019 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:51:48.090 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 226
+2023-02-23 18:51:48.214 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:51:48.334 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:51:48.608 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 289
+2023-02-23 18:51:48.812 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:51:48.812 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [42] [INFO] wifi is enabled successfully
+2023-02-23 18:51:58.817 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [48] [INFO] disconnecting wifi
+2023-02-23 18:51:59.354 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [53] [INFO] Wifi Turn Off
+2023-02-23 18:52:09.362 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [20] [INFO] Enabling wifi
+2023-02-23 18:52:09.362 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:52:11.644 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:52:11.684 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-23 18:52:13.276 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:52:13.276 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [26] [INFO] wifi is enabled successfully
+2023-02-23 18:52:23.281 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [29] [INFO] Enable bluetooth!!!
+2023-02-23 18:52:23.281 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:52:25.875 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:52:25.892 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:52:25.981 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 238
+2023-02-23 18:52:27.357 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-23 18:52:27.447 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:52:27.629 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 287
+2023-02-23 18:52:27.832 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:52:33.442 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:52:33.567 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:52:33.567 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [34] [INFO] wifi is enabled successfully
+2023-02-23 18:52:43.577 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [37] [INFO] disable bluetooth!!!
+2023-02-23 18:52:43.786 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:52:46.103 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:52:46.137 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:52:46.194 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 226
+2023-02-23 18:52:46.320 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:52:46.450 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:52:46.690 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 287
+2023-02-23 18:52:46.897 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-23 18:52:46.897 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [42] [INFO] wifi is enabled successfully
+2023-02-23 18:52:56.912 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [48] [INFO] disconnecting wifi
+2023-02-23 18:52:57.471 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [53] [INFO] Wifi Turn Off
+2023-02-23 18:53:07.486 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [20] [INFO] Enabling wifi
+2023-02-23 18:53:07.486 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:53:10.080 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:53:10.121 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-23 18:53:11.650 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:53:11.650 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [26] [INFO] wifi is enabled successfully
+2023-02-23 18:53:21.656 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [29] [INFO] Enable bluetooth!!!
+2023-02-23 18:53:21.656 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:53:23.931 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:53:23.953 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:53:24.009 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 239
+2023-02-23 18:53:25.327 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-23 18:53:25.436 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:53:25.566 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 288
+2023-02-23 18:53:25.772 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:53:31.393 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:53:31.563 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:53:31.563 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [34] [INFO] wifi is enabled successfully
+2023-02-23 18:53:41.575 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [37] [INFO] disable bluetooth!!!
+2023-02-23 18:53:41.793 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:53:44.108 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:53:44.149 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:53:44.221 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 228
+2023-02-23 18:53:44.322 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:53:44.453 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:53:44.646 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 288
+2023-02-23 18:53:44.844 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:53:44.846 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [42] [INFO] wifi is enabled successfully
+2023-02-23 18:53:54.867 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [48] [INFO] disconnecting wifi
+2023-02-23 18:53:55.423 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [53] [INFO] Wifi Turn Off
+2023-02-23 18:54:05.437 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [20] [INFO] Enabling wifi
+2023-02-23 18:54:05.437 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:54:07.698 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:54:07.724 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-23 18:54:09.187 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:54:09.187 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [26] [INFO] wifi is enabled successfully
+2023-02-23 18:54:19.188 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [29] [INFO] Enable bluetooth!!!
+2023-02-23 18:54:19.188 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:54:21.468 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:54:21.500 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:54:21.565 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 237
+2023-02-23 18:54:22.949 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:54:23.045 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:54:23.226 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 288
+2023-02-23 18:54:23.420 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:54:29.011 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:54:29.189 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:54:29.189 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [34] [INFO] wifi is enabled successfully
+2023-02-23 18:54:39.194 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [37] [INFO] disable bluetooth!!!
+2023-02-23 18:54:39.427 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:54:41.707 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:54:41.747 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:54:41.809 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 225
+2023-02-23 18:54:41.930 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:54:42.062 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:54:42.307 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 287
+2023-02-23 18:54:42.499 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:54:42.499 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [42] [INFO] wifi is enabled successfully
+2023-02-23 18:54:52.501 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [48] [INFO] disconnecting wifi
+2023-02-23 18:54:53.058 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [53] [INFO] Wifi Turn Off
+2023-02-23 18:55:03.072 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [20] [INFO] Enabling wifi
+2023-02-23 18:55:03.072 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:55:05.554 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:55:05.594 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-23 18:55:07.102 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:55:07.102 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [26] [INFO] wifi is enabled successfully
+2023-02-23 18:55:17.110 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [29] [INFO] Enable bluetooth!!!
+2023-02-23 18:55:17.110 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:55:19.585 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:55:19.603 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:55:19.651 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 237
+2023-02-23 18:55:21.026 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-23 18:55:21.119 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:55:21.298 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 288
+2023-02-23 18:55:21.502 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:55:27.122 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:55:27.273 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:55:27.273 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [34] [INFO] wifi is enabled successfully
+2023-02-23 18:55:37.278 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [37] [INFO] disable bluetooth!!!
+2023-02-23 18:55:37.487 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:55:39.779 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:55:39.811 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:55:39.876 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 226
+2023-02-23 18:55:39.986 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:55:40.106 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:55:40.362 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 288
+2023-02-23 18:55:40.590 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:55:40.590 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [42] [INFO] wifi is enabled successfully
+2023-02-23 18:55:50.592 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [48] [INFO] disconnecting wifi
+2023-02-23 18:55:51.169 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [53] [INFO] Wifi Turn Off
+2023-02-23 18:56:01.177 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [20] [INFO] Enabling wifi
+2023-02-23 18:56:01.177 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:56:03.462 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:56:03.510 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-23 18:56:05.029 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:56:05.029 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [26] [INFO] wifi is enabled successfully
+2023-02-23 18:56:15.044 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [29] [INFO] Enable bluetooth!!!
+2023-02-23 18:56:15.044 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:56:17.318 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:56:17.366 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:56:17.429 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 239
+2023-02-23 18:56:18.835 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:56:18.944 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:56:19.142 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 288
+2023-02-23 18:56:19.345 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-23 18:56:24.955 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:56:25.066 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:56:25.066 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [34] [INFO] wifi is enabled successfully
+2023-02-23 18:56:35.072 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [37] [INFO] disable bluetooth!!!
+2023-02-23 18:56:35.257 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:56:37.764 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:56:37.788 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 200 12
+2023-02-23 18:56:37.821 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 227
+2023-02-23 18:56:37.926 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:56:37.998 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:56:38.120 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 288
+2023-02-23 18:56:38.329 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:56:38.329 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [42] [INFO] wifi is enabled successfully
+2023-02-23 18:56:48.336 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [48] [INFO] disconnecting wifi
+2023-02-23 18:56:48.854 India Standard Time: [TC_bluetooth_wifi_on_off_10times] [execute_wifi] [53] [INFO] Wifi Turn Off
+2023-02-23 18:56:58.861 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 92kay01ttw:7912
+2023-02-23 18:57:01.145 India Standard Time: [urllib3.connectionpool] [_new_conn] [228] [DEBUG] Starting new HTTP connection (1): 127.0.0.1:51843
+2023-02-23 18:57:01.193 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "GET /wlan/ip HTTP/1.1" 500 25
+2023-02-23 18:57:01.265 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 238
+2023-02-23 18:57:01.327 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:57:01.407 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:57:01.659 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:57:04.122 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:57:04.283 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:57:04.469 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:57:04.605 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:57:04.781 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:57:04.939 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:57:05.136 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:57:05.306 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:57:05.790 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:57:05.908 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:57:06.045 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-23 18:57:06.356 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 303
+2023-02-23 18:57:06.562 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:57:06.620 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 89
+2023-02-23 18:57:08.039 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:57:08.182 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 90
+2023-02-23 18:57:08.404 India Standard Time: [urllib3.connectionpool] [_make_request] [456] [DEBUG] http://127.0.0.1:51843 "POST /jsonrpc/0 HTTP/1.1" 200 88
+2023-02-23 18:57:08.437 India Standard Time: [common_log] [remove_script_log_handler] [71] [DEBUG] Inside remove_script_log_handler
+2023-02-23 18:57:08.437 India Standard Time: [common_log] [remove_script_log_handler] [72] [INFO] [<RobotHandler (NOTSET)>, <StreamHandler (NOTSET)>, <FileHandler C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\786555\Pixel2_10_Google\LIVE_LTE_SS_STAB\TC_bluetooth_wifi_on_off_10times\iteration_1\TC_bluetooth_wifi_on_off_10times (DEBUG)>]

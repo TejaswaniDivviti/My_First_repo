@@ -1,0 +1,42 @@
+C:\Users\swatipat\Downloads\MAIN_GATS_CODE\gats_env\lib\site-packages\robot\variables\filesetter.py:77: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  variables = yaml.load(stream)
+adb: failed to stat ./inputs/others/wifi.apk: No such file or directory
+Error type 3
+Error: Activity class {com.steinwurf.adbjoinwifi/com.steinwurf.adbjoinwifi.MainActivity} does not exist.
+[36m[D 230405 17:41:45 __init__:322][39m [pid:2388] [08617312BQ072756] device 08617312BQ072756 is online
+[32m[I 230405 17:41:46 init:156][39m uiautomator2 version: 2.16.14
+[36m[D 230405 17:41:46 init:167][39m Shell: ('/data/local/tmp/atx-agent', 'server', '--stop')
+[36m[D 230405 17:41:46 init:295][39m Real version: [0, 10, 0], Expect version: [0, 10, 0]
+[36m[D 230405 17:41:46 init:167][39m Shell: ('/data/local/tmp/atx-agent', 'server', '--nouia', '-d', '--addr', '127.0.0.1:7912')
+[32m[I 230405 17:41:47 init:350][39m Check atx-agent version
+[36m[D 230405 17:41:47 init:359][39m Forward: local:tcp:59621 -> remote:tcp:7912
+[36m[D 230405 17:41:47 init:359][39m Forward: local:tcp:59621 -> remote:tcp:7912
+[36m[D 230405 17:41:47 init:362][39m atx-agent version 0.10.0
+[36m[D 230405 17:41:47 init:365][39m device wlan ip: wlan0 have no ip address
+[36m[D 230405 17:41:49 __init__:661][39m [pid:2388] [08617312BQ072756] kill process(ps): uiautomator
+[36m[D 230405 17:41:50 __init__:392][39m [pid:2388] [08617312BQ072756] Install app-uiautomator.apk
+[36m[D 230405 17:41:51 __init__:392][39m [pid:2388] [08617312BQ072756] Install app-uiautomator-test.apk
+[36m[D 230405 17:41:53 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 40.0s
+[36m[D 230405 17:41:54 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 39.0s
+[36m[D 230405 17:41:55 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 38.0s
+[36m[D 230405 17:41:56 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 36.9s
+[36m[D 230405 17:41:57 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 35.9s
+[36m[D 230405 17:41:58 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 34.9s
+[36m[D 230405 17:41:59 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 33.8s
+[36m[D 230405 17:42:00 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 32.8s
+[36m[D 230405 17:42:01 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 31.8s
+[36m[D 230405 17:42:02 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 30.8s
+[36m[D 230405 17:42:03 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 29.7s
+[36m[D 230405 17:42:04 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 28.7s
+[36m[D 230405 17:42:04 __init__:696][39m [pid:2388] [08617312BQ072756] show float window
+[36m[D 230405 17:42:05 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 27.5s
+[36m[D 230405 17:42:06 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 26.5s
+[36m[D 230405 17:42:07 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 25.4s
+[36m[D 230405 17:42:08 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 24.4s
+[36m[D 230405 17:42:09 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 23.4s
+[36m[D 230405 17:42:10 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 22.4s
+[36m[D 230405 17:42:11 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 21.4s
+[36m[D 230405 17:42:12 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 20.4s
+[36m[D 230405 17:42:13 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 19.4s
+[36m[D 230405 17:42:14 __init__:682][39m [pid:2388] [08617312BQ072756] uiautomator-v2 is starting ... left: 18.3s
+[32m[I 230405 17:42:14 __init__:643][39m [pid:2388] [08617312BQ072756] uiautomator back to normal

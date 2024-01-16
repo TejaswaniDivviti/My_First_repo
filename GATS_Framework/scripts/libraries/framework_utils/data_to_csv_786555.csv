@@ -1,0 +1,209 @@
+macId,testRunId,result,testExecutionId,failureReason,startTime,endTime,testCaseId,ftplink
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1675689734870,1675689755250,TC_265_LIVE_LTE_SS_STAB_SWITCH_CAM
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1675689734870,1675689755250,TC_265_LIVE_LTE_SS_STAB_SWITCH_CAM,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675927766890,1675927767770,TC_01_wifi_SS
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675927766890,1675927767770,TC_01_wifi_SS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675927940390,1675927941180,TC_01_wifi_SS
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675927940390,1675927941180,TC_01_wifi_SS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675928082690,1675928083510,TC_01_wifi_SS
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675928082690,1675928083510,TC_01_wifi_SS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675928140520,1675928132350,TC_01_wifi_SS
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675928140520,1675928132350,TC_01_wifi_SS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675928151040,1675928151880,TC_01_wifi_SS
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675928151040,1675928151880,TC_01_wifi_SS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,Required 1 sim but 2 sim is inserted,1675928339040,1675928344160,TC_200_LIVE_LTE_SS_STAB_CAM_SWITCH
+00:1B:44:11:3A:B7,26,FAILED,786555,Required 1 sim but 2 sim is inserted,1675928339040,1675928344160,TC_200_LIVE_LTE_SS_STAB_CAM_SWITCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,Required 1 sim but 2 sim is inserted,1675928408880,1675928405020,TC_200_LIVE_LTE_SS_STAB_CAM_SWITCH
+00:1B:44:11:3A:B7,26,FAILED,786555,Required 1 sim but 2 sim is inserted,1675928408880,1675928405020,TC_200_LIVE_LTE_SS_STAB_CAM_SWITCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1675928679980,1675928716900,TC_200_LIVE_LTE_SS_STAB_CAM_SWITCH
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1675928679980,1675928716900,TC_200_LIVE_LTE_SS_STAB_CAM_SWITCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1675934039930,1675934074310,TC_200_LIVE_LTE_SS_STAB_CAM_SWITCH
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1675934039930,1675934074310,TC_200_LIVE_LTE_SS_STAB_CAM_SWITCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675934131430,1675934123830,TC_01_wifi_SS
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675934131430,1675934123830,TC_01_wifi_SS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675934173690,1675934165480,TC_01_wifi_SS
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675934173690,1675934165480,TC_01_wifi_SS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675934212530,1675934213400,TC_01_wifi_SS
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675934212530,1675934213400,TC_01_wifi_SS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675934251430,1675934243210,TC_01_wifi_SS
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675934251430,1675934243210,TC_01_wifi_SS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675934692710,1675934684760,TC_01_wifi_SS
+00:1B:44:11:3A:B7,26,FAILED,786555,"Setup failed:
+KeyError: 'TC_01_wifi_SS'
+
+Also teardown failed:
+KeyError: 'TC_01_wifi_SS'",1675934692710,1675934684760,TC_01_wifi_SS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,Required 1 sim but 2 sim is inserted,1675934823910,1675934829120,TC_01_wifi_SS
+00:1B:44:11:3A:B7,26,FAILED,786555,Required 1 sim but 2 sim is inserted,1675934823910,1675934829120,TC_01_wifi_SS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1675934880640,1675934901480,TC_01_wifi_SS
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1675934880640,1675934901480,TC_01_wifi_SS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1675934924770,1675934943260,TC_01_wifi_SS
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1675934924770,1675934943260,TC_01_wifi_SS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1675935523690,1675935540090,TC_01_wifi_SS
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1675935523690,1675935540090,TC_01_wifi_SS,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Two Devices are needed to execute the test case, 1 device(s) connected",1675935560150,1675935564170,TC_500_LIVE_MAP_SEARCH
+00:1B:44:11:3A:B7,26,FAILED,786555,"Two Devices are needed to execute the test case, 1 device(s) connected",1675935560150,1675935564170,TC_500_LIVE_MAP_SEARCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Two Devices are needed to execute the test case, 1 device(s) connected",1675936085300,1675936089070,TC_500_LIVE_MAP_SEARCH
+00:1B:44:11:3A:B7,26,FAILED,786555,"Two Devices are needed to execute the test case, 1 device(s) connected",1675936085300,1675936089070,TC_500_LIVE_MAP_SEARCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Two Devices are needed to execute the test case, 1 device(s) connected",1675936162900,1675936158480,TC_500_LIVE_MAP_SEARCH
+00:1B:44:11:3A:B7,26,FAILED,786555,"Two Devices are needed to execute the test case, 1 device(s) connected",1675936162900,1675936158480,TC_500_LIVE_MAP_SEARCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Two Devices are needed to execute the test case, 1 device(s) connected",1675936244900,1675936239570,TC_500_LIVE_MAP_SEARCH
+00:1B:44:11:3A:B7,26,FAILED,786555,"Two Devices are needed to execute the test case, 1 device(s) connected",1675936244900,1675936239570,TC_500_LIVE_MAP_SEARCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,failed to enable gps,1675936600630,1675936636200,TC_500_LIVE_MAP_SEARCH
+00:1B:44:11:3A:B7,26,FAILED,786555,failed to enable gps,1675936600630,1675936636200,TC_500_LIVE_MAP_SEARCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,failed to enable gps,1675936658830,1675936685460,TC_500_LIVE_MAP_SEARCH
+00:1B:44:11:3A:B7,26,FAILED,786555,failed to enable gps,1675936658830,1675936685460,TC_500_LIVE_MAP_SEARCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,failed to enable gps,1675936724920,1675936752290,TC_500_LIVE_MAP_SEARCH
+00:1B:44:11:3A:B7,26,FAILED,786555,failed to enable gps,1675936724920,1675936752290,TC_500_LIVE_MAP_SEARCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,failed to enable gps,1675936787910,1675936815490,TC_500_LIVE_MAP_SEARCH
+00:1B:44:11:3A:B7,26,FAILED,786555,failed to enable gps,1675936787910,1675936815490,TC_500_LIVE_MAP_SEARCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,failed to enable gps,1675936994120,1675937029800,TC_500_LIVE_MAP_SEARCH
+00:1B:44:11:3A:B7,26,FAILED,786555,failed to enable gps,1675936994120,1675937029800,TC_500_LIVE_MAP_SEARCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,unable to navigate on maps,1675937209030,1675937272410,TC_500_LIVE_MAP_SEARCH
+00:1B:44:11:3A:B7,26,FAILED,786555,unable to navigate on maps,1675937209030,1675937272410,TC_500_LIVE_MAP_SEARCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1675937402130,1675937458700,TC_500_LIVE_MAP_SEARCH
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1675937402130,1675937458700,TC_500_LIVE_MAP_SEARCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,TypeError: cannot unpack non-iterable NoneType object,1675937518090,1675937566900,TC_500_LIVE_MAP_SEARCH
+00:1B:44:11:3A:B7,26,FAILED,786555,TypeError: cannot unpack non-iterable NoneType object,1675937518090,1675937566900,TC_500_LIVE_MAP_SEARCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,TypeError: cannot unpack non-iterable NoneType object,1675937631340,1675937669070,TC_500_LIVE_MAP_SEARCH
+00:1B:44:11:3A:B7,26,FAILED,786555,TypeError: cannot unpack non-iterable NoneType object,1675937631340,1675937669070,TC_500_LIVE_MAP_SEARCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,TypeError: cannot unpack non-iterable NoneType object,1675937684890,1675937733140,TC_500_LIVE_MAP_SEARCH
+00:1B:44:11:3A:B7,26,FAILED,786555,TypeError: cannot unpack non-iterable NoneType object,1675937684890,1675937733140,TC_500_LIVE_MAP_SEARCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,failed to enable gps,1676466154780,1676466203620,TC_500_LIVE_MAP_SEARCH
+00:1B:44:11:3A:B7,26,FAILED,786555,failed to enable gps,1676466154780,1676466203620,TC_500_LIVE_MAP_SEARCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1676466271260,1676466285270,TC_Stability_Live_Camera_034
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1676466271260,1676466285270,TC_Stability_Live_Camera_034,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1676466366930,1676466384870,TC_Stability_Live_Camera_036
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1676466366930,1676466384870,TC_Stability_Live_Camera_036,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1676466505890,1676466521190,TC_Stability_Live_Camera_036
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1676466505890,1676466521190,TC_Stability_Live_Camera_036,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1676466598820,1676466629840,TC_200_LIVE_LTE_SS_STAB_CAM_SWITCH
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1676466598820,1676466629840,TC_200_LIVE_LTE_SS_STAB_CAM_SWITCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1676466711350,1676466742390,TC_200_LIVE_LTE_SS_STAB_CAM_SWITCH
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1676466711350,1676466742390,TC_200_LIVE_LTE_SS_STAB_CAM_SWITCH,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155718360,1677155719370,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155718360,1677155719370,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155720950,1677155721840,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155720950,1677155721840,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155719010,1677155719920,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155719010,1677155719920,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155721880,1677155722950,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155721880,1677155722950,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155725700,1677155726810,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155725700,1677155726810,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155726520,1677155727590,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155726520,1677155727590,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155730380,1677155731410,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155730380,1677155731410,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155735600,1677155736460,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155735600,1677155736460,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155738900,1677155740130,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155738900,1677155740130,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155739270,1677155740360,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155739270,1677155740360,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155810550,1677155811370,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155810550,1677155811370,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155984230,1677155985370,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677155984230,1677155985370,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677156010100,1677156010900,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677156010100,1677156010900,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677157825340,1677157826480,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,FAILED,786555,"Keyword 'res_common.SS_10000' expected 3 arguments, got 2.",1677157825340,1677157826480,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1677157949790,1677157975640,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1677157949790,1677157975640,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,Execution terminated by signal,1677158086720,1677158227730,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,FAILED,786555,Execution terminated by signal,1677158086720,1677158227730,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1677158244670,1677158832400,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1677158244670,1677158832400,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,Execution terminated by signal,1677231048450,1677231093420,TC_bluetooth_wifi_on_off_10times
+00:1B:44:11:3A:B7,26,FAILED,786555,Execution terminated by signal,1677231048450,1677231093420,TC_bluetooth_wifi_on_off_10times,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,Required 1 sim but 2 sim is inserted,1677231332310,1677231337450,TC_PLMN_Wifi_Operator
+00:1B:44:11:3A:B7,26,FAILED,786555,Required 1 sim but 2 sim is inserted,1677231332310,1677231337450,TC_PLMN_Wifi_Operator,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,FAILED,786555,Required 1 sim but 2 sim is inserted,1677231437740,1677231443590,TC_PLMN_Wifi_Operator
+00:1B:44:11:3A:B7,26,FAILED,786555,Required 1 sim but 2 sim is inserted,1677231437740,1677231443590,TC_PLMN_Wifi_Operator,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1677231504480,1677231527420,TC_PLMN_Wifi_Operator
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1677231504480,1677231527420,TC_PLMN_Wifi_Operator,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1677233351860,1677233376830,TC_PLMN_Wifi_Operator
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1677233351860,1677233376830,TC_PLMN_Wifi_Operator,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1677233537660,1677233553380,TC_PLMN_Wifi_Operator
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1677233537660,1677233553380,TC_PLMN_Wifi_Operator,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1677233617320,1677233641480,TC_PLMN_Wifi_Operator
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1677233617320,1677233641480,TC_PLMN_Wifi_Operator,Logs File Not Created. Check robot_results directory
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1677233713610,1677233733800,TC_PLMN_Wifi_Operator
+00:1B:44:11:3A:B7,26,PASSED,786555,PASSED,1677233713610,1677233733800,TC_PLMN_Wifi_Operator,Logs File Not Created. Check robot_results directory

@@ -1,0 +1,23 @@
+C:\Users\swatipat\Downloads\MAIN_GATS_CODE\gats_env\lib\site-packages\robot\variables\filesetter.py:77: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  variables = yaml.load(stream)
+[36m[D 230505 10:49:31 __init__:322][39m [pid:21996] [1221b759] device 1221b759 is online
+[32m[I 230505 10:49:32 init:156][39m uiautomator2 version: 2.16.14
+[36m[D 230505 10:49:32 init:167][39m Shell: ('/data/local/tmp/atx-agent', 'server', '--stop')
+[36m[D 230505 10:49:32 init:295][39m Real version: [0, 10, 0], Expect version: [0, 10, 0]
+[36m[D 230505 10:49:32 init:167][39m Shell: ('/data/local/tmp/atx-agent', 'server', '--nouia', '-d', '--addr', '127.0.0.1:7912')
+[32m[I 230505 10:49:32 init:350][39m Check atx-agent version
+[36m[D 230505 10:49:32 init:359][39m Forward: local:tcp:53818 -> remote:tcp:7912
+[36m[D 230505 10:49:33 init:359][39m Forward: local:tcp:53818 -> remote:tcp:7912
+[36m[D 230505 10:49:33 init:362][39m atx-agent version 0.10.0
+[36m[D 230505 10:49:33 init:365][39m device wlan ip: wlan0 have no ip address
+[36m[D 230505 10:49:35 __init__:661][39m [pid:21996] [1221b759] kill process(ps): uiautomator
+[36m[D 230505 10:49:35 __init__:682][39m [pid:21996] [1221b759] uiautomator-v2 is starting ... left: 40.0s
+[36m[D 230505 10:49:36 __init__:682][39m [pid:21996] [1221b759] uiautomator-v2 is starting ... left: 39.0s
+[36m[D 230505 10:49:37 __init__:682][39m [pid:21996] [1221b759] uiautomator-v2 is starting ... left: 37.9s
+[36m[D 230505 10:49:38 __init__:682][39m [pid:21996] [1221b759] uiautomator-v2 is starting ... left: 36.9s
+[36m[D 230505 10:49:39 __init__:682][39m [pid:21996] [1221b759] uiautomator-v2 is starting ... left: 35.9s
+[36m[D 230505 10:49:40 __init__:682][39m [pid:21996] [1221b759] uiautomator-v2 is starting ... left: 34.9s
+[36m[D 230505 10:49:41 __init__:682][39m [pid:21996] [1221b759] uiautomator-v2 is starting ... left: 33.9s
+[36m[D 230505 10:49:42 __init__:696][39m [pid:21996] [1221b759] show float window
+[36m[D 230505 10:49:43 __init__:682][39m [pid:21996] [1221b759] uiautomator-v2 is starting ... left: 32.6s
+[32m[I 230505 10:49:43 __init__:643][39m [pid:21996] [1221b759] uiautomator back to normal

@@ -1,0 +1,60 @@
+{
+  "devices": [
+    {
+      "Contact_name_A": "Pixel3a",
+      "Contact_name_B": "Pixel3",
+      "Contact_name_C": "OnePlus",
+
+      "deviceA_call_no_sim1": "7829887654",
+      "deviceA_call_no_sim2": "7829887654",
+      "deviceA_id": "92KAY01TTW",
+      "deviceA_name": "Pixel3a",
+
+      "deviceC_call_no_sim1": "7219452908",
+      "deviceC_call_no_sim2": "7219452908",
+      "deviceC_id": "2d0c8aa1",
+      "deviceC_name": "oneplus",
+
+      "deviceB_call_no_sim1": "7829887654",
+      "deviceB_call_no_sim2": "7204913900",
+      "deviceB_id": "a15b28cf",
+      "deviceB_name": "Pixel3",
+    
+      "testcase_config_parameters": {
+        "wifi_ssid": "Automation",
+        "wifi_password": "31de9987",
+        "wifi_ssid_new": "Automation",
+        "wifi_password_new": "31de9987",
+        "destination_location": "Tirupati",
+        "bluetooth_name": "Mi 10T",
+        "bluetooth_file": "sdcard/DCIM/download.png",
+        "browsing_duration": 0.3,
+        "Call_duration": 5,
+        "IP_ADDR": "192.168.42.233"
+      },
+
+      "testCase": [
+        {  
+        "TC_108_LIVE_LTE_SS_STAB_WIFI_DL_MOCALL_SMS":1,
+        "TC_Stability_Live_Volte_003" : 1,
+        "TC_Stability_Live_Camera_038" : 1
+        } 
+      ]
+    }
+  ],
+
+  "rerun_failure_testcase": 1,
+  "bugzilla_details": {
+    "bugzilla_url": "bugzilla.globaledgesoft.com",
+    "bugzilla_userId": "bg.meghashree@globaledgesoft.com",
+    "bugzilla_password": "meg1@ges",
+    "product_": "GATS_Cellular",
+    "version_": "unspecified",
+    "component_": "PythonFramework",
+    "op_sys_": "Linux",
+    "platform_": "PC"
+  },
+  "automation_id": 1
+}
+
+

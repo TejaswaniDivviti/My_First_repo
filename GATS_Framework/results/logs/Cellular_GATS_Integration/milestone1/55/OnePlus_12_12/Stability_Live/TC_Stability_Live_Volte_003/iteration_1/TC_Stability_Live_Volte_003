@@ -1,0 +1,3 @@
+2023-05-11 15:55:19.240 India Standard Time: [log_utils] [setup_logging] [80] [INFO] Logging has been setup
+2023-05-11 15:55:20.252 India Standard Time: [common_log] [remove_script_log_handler] [71] [DEBUG] Inside remove_script_log_handler
+2023-05-11 15:55:20.252 India Standard Time: [common_log] [remove_script_log_handler] [72] [INFO] [<RobotHandler (NOTSET)>, <StreamHandler (NOTSET)>, <FileHandler C:\Users\swatipat\Downloads\MAIN_GATS_CODE\GATS_Django_Framework\results\logs\Cellular_GATS_Integration\milestone1\55\OnePlus_12_12\Stability_Live\TC_Stability_Live_Volte_003\iteration_1\TC_Stability_Live_Volte_003 (DEBUG)>]
